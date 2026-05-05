@@ -1,0 +1,37 @@
+{
+  "study": "Карточка",
+  "setup": "Настройка Теста",
+  "test": "Вопрос",
+  "result": "Результаты",
+  "stats": "Статистика",
+  "of": "из",
+  "btn_show_ex": "Показать Пример",
+  "btn_hide_ex": "Скрыть Пример",
+  "btn_start_test": "Начать Тест",
+  "btn_back": "Назад",
+  "btn_go": "Старт!",
+  "btn_finish": "Завершить",
+  "btn_return": "Вернуться к Карточкам",
+  "btn_return_study": "Вернуться к изучению",
+  "label_question": "Вопрос:",
+  "label_answer": "Ответ:",
+  "label_count": "Количество вопросов:",
+  "label_select_correct": "Выберите правильный ответ:",
+  "label_test_complete": "Тест завершен!",
+  "label_test_interrupted": "Тест завершен! (частично)",
+  "label_accuracy": "Точность",
+  "label_progress_title": "Ваш прогресс",
+  "label_learned_desc": "Выучено иероглифов",
+  "label_progress_bar": "Прогресс",
+  "types": {
+    "char": "Иероглиф",
+    "pinyin": "Пининь",
+    "translation": "Перевод"
+  },
+  "icons": {
+    "stats": "📖",
+    "audio": "🔊",
+    "learned_off": "✔️",
+    "learned_on": "✅"
+  }
+}

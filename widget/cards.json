@@ -1,0 +1,3502 @@
+[
+  {
+    "char": "你",
+    "pinyin": "nǐ",
+    "translation": "Ты",
+    "example": "你好！",
+    "exTranslation": "Привет!"
+  },
+  {
+    "char": "我",
+    "pinyin": "wǒ",
+    "translation": "Я",
+    "example": "我是学生。",
+    "exTranslation": "Я студент."
+  },
+  {
+    "char": "他",
+    "pinyin": "tā",
+    "translation": "Он",
+    "example": "他是我的老师。",
+    "exTranslation": "Он мой учитель."
+  },
+  {
+    "char": "我们",
+    "pinyin": "wǒmen",
+    "translation": "Мы",
+    "example": "我们去商店吧。",
+    "exTranslation": "Пойдем в магазин."
+  },
+  {
+    "char": "谢谢",
+    "pinyin": "xièxie",
+    "translation": "Спасибо",
+    "example": "谢谢你的帮助。",
+    "exTranslation": "Спасибо за твою помощь."
+  },
+  {
+    "char": "不客气",
+    "pinyin": "bú kèqi",
+    "translation": "Не за что",
+    "example": "A: 谢谢！ B: 不客气。",
+    "exTranslation": "А: Спасибо! Б: Не за что."
+  },
+  {
+    "char": "对不起",
+    "pinyin": "duìbuqǐ",
+    "translation": "Извините",
+    "example": "对不起，我来晚了。",
+    "exTranslation": "Извините, я опоздал."
+  },
+  {
+    "char": "没关系",
+    "pinyin": "méi guānxi",
+    "translation": "Ничего страшного",
+    "example": "没关系，慢慢来。",
+    "exTranslation": "Ничего страшного, не торопись."
+  },
+  {
+    "char": "再见",
+    "pinyin": "zài jiàn",
+    "translation": "До свидания",
+    "example": "明天再见。",
+    "exTranslation": "До завтра."
+  },
+  {
+    "char": "请",
+    "pinyin": "qǐng",
+    "translation": "Пожалуйста (просьба)",
+    "example": "请进，请坐。",
+    "exTranslation": "Пожалуйста, входите, садитесь."
+  },
+  {
+    "char": "名字",
+    "pinyin": "míngzi",
+    "translation": "Имя",
+    "example": "你叫什么名字？",
+    "exTranslation": "Как тебя зовут?"
+  },
+  {
+    "char": "岁",
+    "pinyin": "suì",
+    "translation": "Лет (возраст)",
+    "example": "我今年二十岁。",
+    "exTranslation": "Мне в этом году 20 лет."
+  },
+  {
+    "char": "家",
+    "pinyin": "jiā",
+    "translation": "Дом / Семья",
+    "example": "我爱我的家。",
+    "exTranslation": "Я люблю свою семью."
+  },
+  {
+    "char": "爸爸",
+    "pinyin": "bàba",
+    "translation": "Папа",
+    "example": "我爸爸是医生。",
+    "exTranslation": "Мой папа — врач."
+  },
+  {
+    "char": "妈妈",
+    "pinyin": "māma",
+    "translation": "Мама",
+    "example": "我妈妈在医院工作。",
+    "exTranslation": "Моя мама работает в больнице."
+  },
+  {
+    "char": "朋友",
+    "pinyin": "péngyǒu",
+    "translation": "Друг",
+    "example": "他是我的好朋友。",
+    "exTranslation": "Он мой хороший друг."
+  },
+  {
+    "char": "老师",
+    "pinyin": "lǎoshī",
+    "translation": "Учитель",
+    "example": "王老师教เรา汉语。",
+    "exTranslation": "Учитель Ван учит нас китайскому."
+  },
+  {
+    "char": "学生",
+    "pinyin": "xuésheng",
+    "translation": "Ученик",
+    "example": "他是北京大学的学生。",
+    "exTranslation": "Он студент Пекинского университета."
+  },
+  {
+    "char": "医院",
+    "pinyin": "yīyuàn",
+    "translation": "Больница",
+    "example": "他在医院里看病。",
+    "exTranslation": "Он лечится в больнице."
+  },
+  {
+    "char": "医生",
+    "pinyin": "yīshēng",
+    "translation": "Врач",
+    "example": "医生告诉我要多喝水。",
+    "exTranslation": "Врач сказал мне пить больше воды."
+  },
+  {
+    "char": "商店",
+    "pinyin": "shāngdiàn",
+    "translation": "Магазин",
+    "example": "Этот商店的东西很贵。",
+    "exTranslation": "Вещи в этом магазине очень дорогие."
+  },
+  {
+    "char": "衣服",
+    "pinyin": "yīfu",
+    "translation": "Одежда",
+    "example": "这件衣服很漂亮。",
+    "exTranslation": "Эта одежда очень красивая."
+  },
+  {
+    "char": "书",
+    "pinyin": "shū",
+    "translation": "Книга",
+    "example": "桌子上有一本书。",
+    "exTranslation": "На столе лежит книга."
+  },
+  {
+    "char": "猫",
+    "pinyin": "māo",
+    "translation": "Кошка",
+    "example": "我有一只小猫。",
+    "exTranslation": "У меня есть котенок."
+  },
+  {
+    "char": "狗",
+    "pinyin": "gǒu",
+    "translation": "Собака",
+    "example": "那只狗很大。",
+    "exTranslation": "Та собака очень большая."
+  },
+  {
+    "char": "水",
+    "pinyin": "shuǐ",
+    "translation": "Вода",
+    "example": "你想喝水吗？",
+    "exTranslation": "Хочешь попить воды?"
+  },
+  {
+    "char": "茶",
+    "pinyin": "chá",
+    "translation": "Чай",
+    "example": "中国人很喜欢喝茶。",
+    "exTranslation": "Китайцы очень любят пить чай."
+  },
+  {
+    "char": "咖啡",
+    "pinyin": "kāfēi",
+    "translation": "Кофе",
+    "example": "一杯热咖啡。",
+    "exTranslation": "Чашка горячего кофе."
+  },
+  {
+    "char": "苹果",
+    "pinyin": "píngguǒ",
+    "translation": "Яблоко",
+    "example": "你想吃苹果吗？",
+    "exTranslation": "Хочешь съесть яблоко?"
+  },
+  {
+    "char": "米饭",
+    "pinyin": "mǐfàn",
+    "translation": "Рис",
+    "example": "我喜欢吃米饭。",
+    "exTranslation": "Мне нравится есть рис."
+  },
+  {
+    "char": "吃",
+    "pinyin": "chī",
+    "translation": "Есть (кушать)",
+    "example": "你在吃什么？",
+    "exTranslation": "Что ты ешь?"
+  },
+  {
+    "char": "喝",
+    "pinyin": "hē",
+    "translation": "Пить",
+    "example": "我不喝牛奶。",
+    "exTranslation": "Я не пью молоко."
+  },
+  {
+    "char": "去",
+    "pinyin": "qù",
+    "translation": "Идти / Ехать",
+    "example": "我去火车站。",
+    "exTranslation": "Я иду на вокзал."
+  },
+  {
+    "char": "看",
+    "pinyin": "kàn",
+    "translation": "Смотреть / Читать",
+    "example": "看电视。",
+    "exTranslation": "Смотреть телевизор."
+  },
+  {
+    "char": "听",
+    "pinyin": "tīng",
+    "translation": "Слушать",
+    "example": "听音乐。",
+    "exTranslation": "Слушать музыку."
+  },
+  {
+    "char": "说",
+    "pinyin": "shuō",
+    "translation": "Говорить",
+    "example": "我会说汉语。",
+    "exTranslation": "Я умею говорить по-китайски."
+  },
+  {
+    "char": "读",
+    "pinyin": "dú",
+    "translation": "Читать (вслух)",
+    "example": "读报纸。",
+    "exTranslation": "Читать газету."
+  },
+  {
+    "char": "写",
+    "pinyin": "xiě",
+    "translation": "Писать",
+    "example": "写汉字。",
+    "exTranslation": "Писать иероглифы."
+  },
+  {
+    "char": "学习",
+    "pinyin": "xuéxí",
+    "translation": "Учиться",
+    "example": "我在学校学习。",
+    "exTranslation": "Я учусь в школе."
+  },
+  {
+    "char": "喜欢",
+    "pinyin": "xǐhuan",
+    "translation": "Нравиться",
+    "example": "我喜欢看电影。",
+    "exTranslation": "Мне нравится смотреть кино."
+  },
+  {
+    "char": "爱",
+    "pinyin": "ài",
+    "translation": "Любить",
+    "example": "我爱你。",
+    "exTranslation": "Я люблю тебя."
+  },
+  {
+    "char": "想",
+    "pinyin": "xiǎng",
+    "translation": "Хотеть / Думать",
+    "example": "我想去中国。",
+    "exTranslation": "Я хочу поехать в Китай."
+  },
+  {
+    "char": "认识",
+    "pinyin": "rènshi",
+    "translation": "Знать / Быть знакомым",
+    "example": "认识你很高兴。",
+    "exTranslation": "Рад знакомству."
+  },
+  {
+    "char": "高兴",
+    "pinyin": "gāoxìng",
+    "translation": "Радостный",
+    "example": "今天我很高兴。",
+    "exTranslation": "Сегодня я очень рад."
+  },
+  {
+    "char": "大",
+    "pinyin": "dà",
+    "translation": "Большой",
+    "example": "这个苹果很大。",
+    "exTranslation": "Это яблоко очень большое."
+  },
+  {
+    "char": "小",
+    "pinyin": "xiǎo",
+    "translation": "Маленький",
+    "example": "小猫很可爱。",
+    "exTranslation": "Котенок очень милый."
+  },
+  {
+    "char": "漂亮",
+    "pinyin": "piàoliang",
+    "translation": "Красивый",
+    "example": "她的衣服很漂亮。",
+    "exTranslation": "Ее одежда очень красивая."
+  },
+  {
+    "char": "现在",
+    "pinyin": "xiànzài",
+    "translation": "Сейчас",
+    "example": "现在几点？",
+    "exTranslation": "Который сейчас час?"
+  },
+  {
+    "char": "今天",
+    "pinyin": "jīntiān",
+    "translation": "Сегодня",
+    "example": "今天天气很好。",
+    "exTranslation": "Сегодня хорошая погода."
+  },
+  {
+    "char": "怎么样",
+    "pinyin": "zěnmeyàng",
+    "translation": "Как / Каков",
+    "example": "你最近怎么样？",
+    "exTranslation": "Как у тебя дела в последнее время?"
+  },
+  {
+    "char": "工作",
+    "pinyin": "gōngzuò",
+    "translation": "Работа / Работать",
+    "example": "你做什么工作？",
+    "exTranslation": "Кем ты работаешь?"
+  },
+  {
+    "char": "学校",
+    "pinyin": "xuéxiào",
+    "translation": "Школа",
+    "example": "我们的学校很大。",
+    "exTranslation": "Наша школа очень большая."
+  },
+  {
+    "char": "电话",
+    "pinyin": "diànhuà",
+    "translation": "Телефон",
+    "example": "他在接电话。",
+    "exTranslation": "Он отвечает на звонок."
+  },
+  {
+    "char": "打电话",
+    "pinyin": "dǎ diànhuà",
+    "translation": "Звонить по телефону",
+    "example": "给妈妈打电话。",
+    "exTranslation": "Позвони маме."
+  },
+  {
+    "char": "电脑",
+    "pinyin": "diànnǎo",
+    "translation": "Компьютер",
+    "example": "我买了一个新电脑。",
+    "exTranslation": "Я купил новый компьютер."
+  },
+  {
+    "char": "电视",
+    "pinyin": "diànshì",
+    "translation": "Телевизор",
+    "example": "我看电视呢。",
+    "exTranslation": "Я смотрю телевизор."
+  },
+  {
+    "char": "电影",
+    "pinyin": "diànyǐng",
+    "translation": "Фильм / Кино",
+    "example": "你想看什么电影？",
+    "exTranslation": "Какой фильм ты хочешь посмотреть?"
+  },
+  {
+    "char": "天气",
+    "pinyin": "tiānqì",
+    "translation": "Погода",
+    "example": "明天天气怎么样？",
+    "exTranslation": "Какая завтра будет погода?"
+  },
+  {
+    "char": "下雨",
+    "pinyin": "xià yǔ",
+    "translation": "Идет дождь",
+    "example": "外面在下雨。",
+    "exTranslation": "На улице идет дождь."
+  },
+  {
+    "char": "冷",
+    "pinyin": "lěng",
+    "translation": "Холодный",
+    "example": "今天特别冷。",
+    "exTranslation": "Сегодня особенно холодно."
+  },
+  {
+    "char": "热",
+    "pinyin": "rè",
+    "translation": "Горячий / Жаркий",
+    "example": "我很热，想喝水。",
+    "exTranslation": "Мне жарко, хочу пить."
+  },
+  {
+    "char": "多",
+    "pinyin": "duō",
+    "translation": "Много",
+    "example": "这里人很多。",
+    "exTranslation": "Здесь много людей."
+  },
+  {
+    "char": "少",
+    "pinyin": "shǎo",
+    "translation": "Мало",
+    "example": "杯子里水很少。",
+    "exTranslation": "В стакане мало воды."
+  },
+  {
+    "char": "一些",
+    "pinyin": "yìxiē",
+    "translation": "Немного / Несколько",
+    "example": "买一些水果。",
+    "exTranslation": "Купи немного фруктов."
+  },
+  {
+    "char": "钱",
+    "pinyin": "qián",
+    "translation": "Деньги",
+    "example": "你有钱吗？",
+    "exTranslation": "У тебя есть деньги?"
+  },
+  {
+    "char": "多少",
+    "pinyin": "duōshǎo",
+    "translation": "Сколько",
+    "example": "这个多少钱？",
+    "exTranslation": "Сколько это стоит?"
+  },
+  {
+    "char": "块",
+    "pinyin": "kuài",
+    "translation": "Юань (разговорное)",
+    "example": "十块钱。",
+    "exTranslation": "Десять юаней."
+  },
+  {
+    "char": "贵",
+    "pinyin": "guì",
+    "translation": "Дорогой",
+    "example": "太贵了！",
+    "exTranslation": "Слишком дорого!"
+  },
+  {
+    "char": "便宜",
+    "pinyin": "piányi",
+    "translation": "Дешевый",
+    "example": "能不能便宜点儿？",
+    "exTranslation": "Можно немного подешевле?"
+  },
+  {
+    "char": "水果",
+    "pinyin": "shuǐguǒ",
+    "translation": "Фрукты",
+    "example": "多吃水果对身体好。",
+    "exTranslation": "Есть много фруктов полезно для здоровья."
+  },
+  {
+    "char": "鸡蛋",
+    "pinyin": "jīdàn",
+    "translation": "Яйцо",
+    "example": "我早餐吃鸡蛋。",
+    "exTranslation": "Я ем яйца на завтрак."
+  },
+  {
+    "char": "牛奶",
+    "pinyin": "niúnǎi",
+    "translation": "Молоко",
+    "example": "喝杯热牛奶吧。",
+    "exTranslation": "Выпей стакан горячего молока."
+  },
+  {
+    "char": "面包",
+    "pinyin": "miànbāo",
+    "translation": "Хлеб",
+    "example": "你想吃面包吗？",
+    "exTranslation": "Хочешь хлеба?"
+  },
+  {
+    "char": "肉",
+    "pinyin": "ròu",
+    "translation": "Мясо",
+    "example": "我不吃肉。",
+    "exTranslation": "Я не ем мясо."
+  },
+  {
+    "char": "牛肉",
+    "pinyin": "niúròu",
+    "translation": "Говядина",
+    "example": "牛肉面很好吃。",
+    "exTranslation": "Лапша с говядиной очень вкусная."
+  },
+  {
+    "char": "羊肉",
+    "pinyin": "yángròu",
+    "translation": "Баранина",
+    "example": "涮羊肉。",
+    "exTranslation": "Китайский самовар с бараниной."
+  },
+  {
+    "char": "里面",
+    "pinyin": "lǐmiàn",
+    "translation": "Внутри",
+    "example": "书在包里面。",
+    "exTranslation": "Книга в сумке."
+  },
+  {
+    "char": "外面",
+    "pinyin": "wàimiàn",
+    "translation": "Снаружи",
+    "example": "外面很冷。",
+    "exTranslation": "На улице (снаружи) холодно."
+  },
+  {
+    "char": "前面",
+    "pinyin": "qiánmiàn",
+    "translation": "Впереди / Спереди",
+    "example": "车站就在前面。",
+    "exTranslation": "Остановка прямо впереди."
+  },
+  {
+    "char": "后面",
+    "pinyin": "hòumiàn",
+    "translation": "Сзади",
+    "example": "他在我后面。",
+    "exTranslation": "Он позади меня."
+  },
+  {
+    "char": "上面",
+    "pinyin": "shàngmiàn",
+    "translation": "Сверху / На",
+    "example": "桌子上面。",
+    "exTranslation": "На столе."
+  },
+  {
+    "char": "下面",
+    "pinyin": "xiàmiàn",
+    "translation": "Снизу / Под",
+    "example": "椅子下面有一只猫。",
+    "exTranslation": "Под стулом сидит кошка."
+  },
+  {
+    "char": "左边",
+    "pinyin": "zuǒbiān",
+    "translation": "Слева",
+    "example": "往左边走。",
+    "exTranslation": "Идите налево."
+  },
+  {
+    "char": "右边",
+    "pinyin": "yǒubiān",
+    "translation": "Справа",
+    "example": "右边是医院。",
+    "exTranslation": "Справа — больница."
+  },
+  {
+    "char": "路",
+    "pinyin": "lù",
+    "translation": "Дорога / Путь",
+    "example": "路上车很多。",
+    "exTranslation": "На дороге много машин."
+  },
+  {
+    "char": "公共汽车",
+    "pinyin": "gōnggòng qìchē",
+    "translation": "Автобус",
+    "example": "坐公共汽车去学校。",
+    "exTranslation": "Ехать в школу на автобусе."
+  },
+  {
+    "char": "自行车",
+    "pinyin": "zìxíngchē",
+    "translation": "Велосипед",
+    "example": "骑自行车。",
+    "exTranslation": "Ездить на велосипеде."
+  },
+  {
+    "char": "飞机",
+    "pinyin": "fēijī",
+    "translation": "Самолет",
+    "example": "坐飞机去北京。",
+    "exTranslation": "Лететь в Пекин на самолете."
+  },
+  {
+    "char": "火车",
+    "pinyin": "huǒchē",
+    "translation": "Поезд",
+    "example": "火车站远吗？",
+    "exTranslation": "Вокзал далеко?"
+  },
+  {
+    "char": "旅游",
+    "pinyin": "lǚyóu",
+    "translation": "Путешествовать",
+    "example": "我喜欢去中国旅游。",
+    "exTranslation": "Мне нравится путешествовать по Китаю."
+  },
+  {
+    "char": "准备",
+    "pinyin": "zhǔnbèi",
+    "translation": "Готовить / Готовиться",
+    "example": "准备考试。",
+    "exTranslation": "Готовиться к экзамену."
+  },
+  {
+    "char": "开始",
+    "pinyin": "kāishǐ",
+    "translation": "Начинать",
+    "example": "เรา开始吧。",
+    "exTranslation": "Давайте начнем."
+  },
+  {
+    "char": "结束",
+    "pinyin": "jiéshù",
+    "translation": "Заканчивать",
+    "example": "会议结束了。",
+    "exTranslation": "Собрание закончилось."
+  },
+  {
+    "char": "帮助",
+    "pinyin": "bāngzhù",
+    "translation": "Помогать",
+    "example": "谢谢你的帮助。",
+    "exTranslation": "Спасибо за помощь."
+  },
+  {
+    "char": "身体",
+    "pinyin": "shēntǐ",
+    "translation": "Тело / Здоровье",
+    "example": "你身体怎么样？",
+    "exTranslation": "Как твое здоровье?"
+  },
+  {
+    "char": "药",
+    "pinyin": "yào",
+    "translation": "Лекарство",
+    "example": "别忘了吃药。",
+    "exTranslation": "Не забудь принять лекарство."
+  },
+  {
+    "char": "生病",
+    "pinyin": "shēng bìng",
+    "translation": "Болеть",
+    "example": "我不舒服，生病了。",
+    "exTranslation": "Мне нехорошо, я заболел."
+  },
+  {
+    "char": "休息",
+    "pinyin": "xiūxi",
+    "translation": "Отдыхать",
+    "example": "太累了，休息一下。",
+    "exTranslation": "Слишком устал, давай немного отдохнем."
+  },
+  {
+    "char": "睡觉",
+    "pinyin": "shuìjiào",
+    "translation": "Спать",
+    "example": "我想去睡觉。",
+    "exTranslation": "Я хочу пойти спать."
+  },
+  {
+    "char": "八",
+    "pinyin": "bā",
+    "translation": "Восемь",
+    "example": "他八岁了。",
+    "exTranslation": "Ему восемь лет."
+  },
+  {
+    "char": "杯子",
+    "pinyin": "bēizi",
+    "translation": "Стакан / Чашка",
+    "example": "桌子上有个杯子。",
+    "exTranslation": "На столе стоит стакан."
+  },
+  {
+    "char": "北京",
+    "pinyin": "Běijīng",
+    "translation": "Пекин",
+    "example": "我住在北京。",
+    "exTranslation": "Я живу в Пекине."
+  },
+  {
+    "char": "本",
+    "pinyin": "běn",
+    "translation": "Сч. слово для книг",
+    "example": "我有一本书。",
+    "exTranslation": "У меня есть книга."
+  },
+  {
+    "char": "不",
+    "pinyin": "bù",
+    "translation": "Не / Нет",
+    "example": "我不是老师。",
+    "exTranslation": "Я не учитель."
+  },
+  {
+    "char": "菜",
+    "pinyin": "cài",
+    "translation": "Блюдо / Овощи",
+    "example": "中国菜很好吃。",
+    "exTranslation": "Китайская еда очень вкусная."
+  },
+  {
+    "char": "出租车",
+    "pinyin": "chūzūchē",
+    "translation": "Такси",
+    "example": "เรา坐出租车吧。",
+    "exTranslation": "Давай поедем на такси."
+  },
+  {
+    "char": "的",
+    "pinyin": "de",
+    "translation": "Частица принадлежности",
+    "example": "这是我的书。",
+    "exTranslation": "Это моя книга."
+  },
+  {
+    "char": "点",
+    "pinyin": "diǎn",
+    "translation": "Час / Немного",
+    "example": "现在三点了。",
+    "exTranslation": "Сейчас три часа."
+  },
+  {
+    "char": "东西",
+    "pinyin": "dōngxi",
+    "translation": "Вещь / Предмет",
+    "example": "他在买东西。",
+    "exTranslation": "Он покупает вещи."
+  },
+  {
+    "char": "都",
+    "pinyin": "dōu",
+    "translation": "Все / Оба",
+    "example": "เรา都是学生。",
+    "exTranslation": "Мы все студенты."
+  },
+  {
+    "char": "儿子",
+    "pinyin": "érzi",
+    "translation": "Сын",
+    "example": "我儿子五岁了。",
+    "exTranslation": "Моему сыну пять лет."
+  },
+  {
+    "char": "二",
+    "pinyin": "èr",
+    "translation": "Два",
+    "example": "二月有二十八天。",
+    "exTranslation": "В феврале 28 дней."
+  },
+  {
+    "char": "饭店",
+    "pinyin": "fàndiàn",
+    "translation": "Ресторан / Отель",
+    "example": "我们在饭店吃饭。",
+    "exTranslation": "Мы едим в ресторане."
+  },
+  {
+    "char": "分钟",
+    "pinyin": "fēnzhōng",
+    "translation": "Минута",
+    "example": "等我十分钟。",
+    "exTranslation": "Подожди меня 10 минут."
+  },
+  {
+    "char": "个",
+    "pinyin": "gè",
+    "translation": "Универс. сч. слово",
+    "example": "我有一个哥哥。",
+    "exTranslation": "У меня есть старший брат."
+  },
+  {
+    "char": "汉语",
+    "pinyin": "Hànyǔ",
+    "translation": "Китайский язык",
+    "example": "我会说汉语。",
+    "exTranslation": "Я говорю по-китайски."
+  },
+  {
+    "char": "好",
+    "pinyin": "hǎo",
+    "translation": "Хороший",
+    "example": "今天天气很好。",
+    "exTranslation": "Сегодня хорошая погода."
+  },
+  {
+    "char": "号",
+    "pinyin": "hào",
+    "translation": "Число / Номер",
+    "example": "今天是五号。",
+    "exTranslation": "Сегодня пятое число."
+  },
+  {
+    "char": "和",
+    "pinyin": "hé",
+    "translation": "И / С",
+    "example": "我和他是朋友。",
+    "exTranslation": "Я и он — друзья."
+  },
+  {
+    "char": "很",
+    "pinyin": "hěn",
+    "translation": "Очень",
+    "example": "他很高兴。",
+    "exTranslation": "Он очень рад."
+  },
+  {
+    "char": "回",
+    "pinyin": "huí",
+    "translation": "Возвращаться",
+    "example": "我回学校了。",
+    "exTranslation": "Я вернулся в школу."
+  },
+  {
+    "char": "会",
+    "pinyin": "huì",
+    "translation": "Уметь",
+    "example": "我会开车。",
+    "exTranslation": "Я умею водить машину."
+  },
+  {
+    "char": "几",
+    "pinyin": "jǐ",
+    "translation": "Сколько (до 10)",
+    "example": "你有几个苹果？",
+    "exTranslation": "Сколько у тебя яблок?"
+  },
+  {
+    "char": "叫",
+    "pinyin": "jiào",
+    "translation": "Звать / Называть",
+    "example": "你叫什么名字？",
+    "exTranslation": "Как тебя зовут?"
+  },
+  {
+    "char": "九",
+    "pinyin": "jiǔ",
+    "translation": "Девять",
+    "example": "我九点睡觉。",
+    "exTranslation": "Я ложусь спать в 9."
+  },
+  {
+    "char": "看见",
+    "pinyin": "kànjiàn",
+    "translation": "Увидеть",
+    "example": "我看见他了。",
+    "exTranslation": "Я его увидел."
+  },
+  {
+    "char": "来",
+    "pinyin": "lái",
+    "translation": "Приходить",
+    "example": "他来我家了。",
+    "exTranslation": "Он пришел ко мне домой."
+  },
+  {
+    "char": "了",
+    "pinyin": "le",
+    "translation": "Прошедшее время",
+    "example": "我吃饭了。",
+    "exTranslation": "Я поел."
+  },
+  {
+    "char": "里",
+    "pinyin": "lǐ",
+    "translation": "Внутри",
+    "example": "书包里有什么？",
+    "exTranslation": "Что в рюкзаке?"
+  },
+  {
+    "char": "零",
+    "pinyin": "líng",
+    "translation": "Ноль",
+    "example": "现在是零点。",
+    "exTranslation": "Сейчас ноль часов."
+  },
+  {
+    "char": "六",
+    "pinyin": "liù",
+    "translation": "Шесть",
+    "example": "这件衣服六十块。",
+    "exTranslation": "Эта одежда стоит 60 юаней."
+  },
+  {
+    "char": "吗",
+    "pinyin": "ma",
+    "translation": "Вопр. частица",
+    "example": "你是老师吗？",
+    "exTranslation": "Вы учитель?"
+  },
+  {
+    "char": "买",
+    "pinyin": "mǎi",
+    "translation": "Покупать",
+    "example": "我想买水。",
+    "exTranslation": "Я хочу купить воды."
+  },
+  {
+    "char": "没有",
+    "pinyin": "méiyǒu",
+    "translation": "Не иметь / Нет",
+    "example": "我没有钱。",
+    "exTranslation": "У меня нет денег."
+  },
+  {
+    "char": "明天",
+    "pinyin": "míngtiān",
+    "translation": "Завтра",
+    "example": "明天见。",
+    "exTranslation": "До завтра."
+  },
+  {
+    "char": "哪",
+    "pinyin": "nǎ",
+    "translation": "Какой",
+    "example": "你是哪国人？",
+    "exTranslation": "Из какой ты страны?"
+  },
+  {
+    "char": "哪儿",
+    "pinyin": "nǎr",
+    "translation": "Где",
+    "example": "你在哪儿？",
+    "exTranslation": "Ты где?"
+  },
+  {
+    "char": "那",
+    "pinyin": "nà",
+    "translation": "Тот",
+    "example": "那是我的电脑。",
+    "exTranslation": "То мой компьютер."
+  },
+  {
+    "char": "百",
+    "pinyin": "bǎi",
+    "translation": "Сотня",
+    "example": "这一本书一百块。",
+    "exTranslation": "Эта книга стоит сто юаней."
+  },
+  {
+    "char": "千",
+    "pinyin": "qiān",
+    "translation": "Тысяча",
+    "example": "这个手机三千块。",
+    "exTranslation": "Этот телефон стоит три тысячи."
+  },
+  {
+    "char": "报纸",
+    "pinyin": "bàozhǐ",
+    "translation": "Газета",
+    "example": "我爸爸喜欢看报纸。",
+    "exTranslation": "Мой папа любит читать газеты."
+  },
+  {
+    "char": "宾馆",
+    "pinyin": "bīnguǎn",
+    "translation": "Гостиница",
+    "example": "我们住在这家宾馆。",
+    "exTranslation": "Мы живем в этой гостинице."
+  },
+  {
+    "char": "唱歌",
+    "pinyin": "chànggē",
+    "translation": "Петь",
+    "example": "她唱歌唱得很好。",
+    "exTranslation": "Она очень хорошо поет."
+  },
+  {
+    "char": "穿",
+    "pinyin": "chuān",
+    "translation": "Надевать / Носить",
+    "example": "今天很冷，多穿点衣服。",
+    "exTranslation": "Сегодня холодно, надень побольше одежды."
+  },
+  {
+    "char": "次",
+    "pinyin": "cì",
+    "translation": "Раз (номер/случай)",
+    "example": "我去过北京三次。",
+    "exTranslation": "Я был в Пекине три раза."
+  },
+  {
+    "char": "从",
+    "pinyin": "cóng",
+    "translation": "Из / От / С",
+    "example": "从我家到学校很远。",
+    "exTranslation": "От моего дома до школы далеко."
+  },
+  {
+    "char": "错",
+    "pinyin": "cuò",
+    "translation": "Ошибка / Неправильный",
+    "example": "对不起，我错了。",
+    "exTranslation": "Извини, я ошибся."
+  },
+  {
+    "char": "打篮球",
+    "pinyin": "dǎ lánqiú",
+    "translation": "Играть в баскетбол",
+    "example": "我们下午去打篮球吧。",
+    "exTranslation": "Пойдем поиграем в баскетбол после обеда."
+  },
+  {
+    "char": "大家",
+    "pinyin": "dàjiā",
+    "translation": "Все",
+    "example": "请大家坐下。",
+    "exTranslation": "Прошу всех садиться."
+  },
+  {
+    "char": "到",
+    "pinyin": "dào",
+    "translation": "Прибывать / До",
+    "example": "我到了，你在哪儿？",
+    "exTranslation": "Я пришел, ты где?"
+  },
+  {
+    "char": "等",
+    "pinyin": "děng",
+    "translation": "Ждать",
+    "example": "请等我一下。",
+    "exTranslation": "Пожалуйста, подожди меня немного."
+  },
+  {
+    "char": "弟弟",
+    "pinyin": "dìdi",
+    "translation": "Младший брат",
+    "example": "我弟弟比我小两岁。",
+    "exTranslation": "Мой младший брат на два года младше меня."
+  },
+  {
+    "char": "第一",
+    "pinyin": "dì-yī",
+    "translation": "Первый",
+    "example": "这是我第一次来中国。",
+    "exTranslation": "Я в Китае в первый раз."
+  },
+  {
+    "char": "懂",
+    "pinyin": "dǒng",
+    "translation": "Понимать",
+    "example": "你听懂了吗？",
+    "exTranslation": "Ты понял (на слух)?"
+  },
+  {
+    "char": "对",
+    "pinyin": "duì",
+    "translation": "Верный / К",
+    "example": "你说得很对。",
+    "exTranslation": "Ты говоришь совершенно верно."
+  },
+  {
+    "char": "房间",
+    "pinyin": "fángjiān",
+    "translation": "Комната",
+    "example": "我的房间很干净。",
+    "exTranslation": "Моя комната очень чистая."
+  },
+  {
+    "char": "非常",
+    "pinyin": "fēicháng",
+    "translation": "Чрезвычайно",
+    "example": "这个电影非常好。 ",
+    "exTranslation": "Этот фильм очень хороший."
+  },
+  {
+    "char": "服务员",
+    "pinyin": "fúwùyuán",
+    "translation": "Официант",
+    "example": "服务员，请给我一杯水。",
+    "exTranslation": "Официант, дайте мне стакан воды, пожалуйста."
+  },
+  {
+    "char": "高",
+    "pinyin": "gāo",
+    "translation": "Высокий",
+    "example": "他比我高。",
+    "exTranslation": "Он выше меня."
+  },
+  {
+    "char": "告诉",
+    "pinyin": "gàosu",
+    "translation": "Сообщать / Рассказывать",
+    "example": "请告诉他我的电话。",
+    "exTranslation": "Пожалуйста, скажи ему мой номер телефона."
+  },
+  {
+    "char": "哥哥",
+    "pinyin": "gēge",
+    "translation": "Старший брат",
+    "example": "我哥哥在公司工作。",
+    "exTranslation": "Мой старший брат работает в компании."
+  },
+  {
+    "char": "给",
+    "pinyin": "gěi",
+    "translation": "Давать / Предлог 'для'",
+    "example": "这是给你的礼物。",
+    "exTranslation": "Это подарок для тебя."
+  },
+  {
+    "char": "公司",
+    "pinyin": "gōngsī",
+    "translation": "Компания / Фирма",
+    "example": "他在一家大公司工作。",
+    "exTranslation": "Он работает в крупной компании."
+  },
+  {
+    "char": "快乐",
+    "pinyin": "kuàilè",
+    "translation": "Счастливый",
+    "example": "祝你生日快乐！",
+    "exTranslation": "Желаю тебе счастливого дня рождения!"
+  },
+  {
+    "char": "过",
+    "pinyin": "guò",
+    "translation": "Проходить / Частица опыта",
+    "example": "我没看过这个电影。",
+    "exTranslation": "Я не видел этот фильм."
+  },
+  {
+    "char": "还",
+    "pinyin": "hái",
+    "translation": "Еще / Все еще",
+    "example": "我还没吃饭。",
+    "exTranslation": "Я еще не ел."
+  },
+  {
+    "char": "孩子",
+    "pinyin": "háizi",
+    "translation": "Ребенок",
+    "example": "他们有两个孩子。",
+    "exTranslation": "У них двое детей."
+  },
+  {
+    "char": "好吃",
+    "pinyin": "hǎochī",
+    "translation": "Вкусный",
+    "example": "这个菜真好吃。",
+    "exTranslation": "Это блюдо очень вкусное."
+  },
+  {
+    "char": "黑",
+    "pinyin": "hēi",
+    "translation": "Черный / Темный",
+    "example": "天黑了，我们回家吧。",
+    "exTranslation": "Стемнело, пойдем домой."
+  },
+  {
+    "char": "红",
+    "pinyin": "hóng",
+    "translation": "Красный",
+    "example": "她穿着一件红衣服。",
+    "exTranslation": "Она одета в красную одежду."
+  },
+  {
+    "char": "火车站",
+    "pinyin": "huǒchēzhàn",
+    "translation": "Вокзал",
+    "example": "火车站离这里不远。",
+    "exTranslation": "Вокзал отсюда недалеко."
+  },
+  {
+    "char": "机场",
+    "pinyin": "jīchǎng",
+    "translation": "Аэропорт",
+    "example": "我去机场接朋友。",
+    "exTranslation": "Я еду в аэропорт встречать друга."
+  },
+  {
+    "char": "件",
+    "pinyin": "jiàn",
+    "translation": "Сч. слово для одежды/дел",
+    "example": "这件衣服多少钱？",
+    "exTranslation": "Сколько стоит эта одежда?"
+  },
+  {
+    "char": "教室",
+    "pinyin": "jiàoshì",
+    "translation": "Аудитория",
+    "example": "教室里有很多学生。",
+    "exTranslation": "В аудитории много студентов."
+  },
+  {
+    "char": "姐姐",
+    "pinyin": "jiějie",
+    "translation": "Старшая сестра",
+    "example": "我姐姐比我大三岁。",
+    "exTranslation": "Моя сестра на три года старше меня."
+  },
+  {
+    "char": "介绍",
+    "pinyin": "jièshào",
+    "translation": "Представлять / Знакомить",
+    "example": "我给你介绍一下。",
+    "exTranslation": "Я тебя познакомлю."
+  },
+  {
+    "char": "进",
+    "pinyin": "jìn",
+    "translation": "Входить",
+    "example": "请进！",
+    "exTranslation": "Входите, пожалуйста!"
+  },
+  {
+    "char": "近",
+    "pinyin": "jìn",
+    "translation": "Близкий",
+    "example": "我家离公司很近。",
+    "exTranslation": "Мой дом очень близко к компании."
+  },
+  {
+    "char": "觉得",
+    "pinyin": "juéde",
+    "translation": "Считать / Чувствовать",
+    "example": "我觉得这个汉语很难。",
+    "exTranslation": "Я считаю, что этот китайский язык трудный."
+  },
+  {
+    "char": "考试",
+    "pinyin": "kǎoshì",
+    "translation": "Экзамен",
+    "example": "明天的考试很重要。",
+    "exTranslation": "Завтрашний экзамен очень важен."
+  },
+  {
+    "char": "可能",
+    "pinyin": "kěnéng",
+    "translation": "Возможно",
+    "example": "他今天可能不来。",
+    "exTranslation": "Он сегодня, возможно, не придет."
+  },
+  {
+    "char": "可以",
+    "pinyin": "kěyǐ",
+    "translation": "Можно / Мочь",
+    "example": "我可以坐在这儿吗？",
+    "exTranslation": "Я могу здесь сесть?"
+  },
+  {
+    "char": "课",
+    "pinyin": "kè",
+    "translation": "Урок",
+    "example": "今天我有三节课。",
+    "exTranslation": "Сегодня у меня три урока."
+  },
+  {
+    "char": "快",
+    "pinyin": "kuài",
+    "translation": "Быстрый",
+    "example": "快一点儿，我们要迟到了。",
+    "exTranslation": "Быстрее, мы опаздываем."
+  },
+  {
+    "char": "累",
+    "pinyin": "lèi",
+    "translation": "Уставший",
+    "example": "我很累，想休息。",
+    "exTranslation": "Я очень устал, хочу отдохнуть."
+  },
+  {
+    "char": "离",
+    "pinyin": "lí",
+    "translation": "От (расстояние)",
+    "example": "这里离超市很远。",
+    "exTranslation": "Отсюда до супермаркета далеко."
+  },
+  {
+    "char": "两",
+    "pinyin": "liǎng",
+    "translation": "Два (количество)",
+    "example": "我有两个苹果。",
+    "exTranslation": "У меня есть два яблока."
+  },
+  {
+    "char": "卖",
+    "pinyin": "mài",
+    "translation": "Продавать",
+    "example": "商店里卖很多东西。",
+    "exTranslation": "В магазине продается много вещей."
+  },
+  {
+    "char": "慢",
+    "pinyin": "màn",
+    "translation": "Медленный",
+    "example": "请慢一点儿说。",
+    "exTranslation": "Пожалуйста, говорите помедленнее."
+  },
+  {
+    "char": "忙",
+    "pinyin": "máng",
+    "translation": "Занятой",
+    "example": "你最近忙吗？",
+    "exTranslation": "Ты занят в последнее время?"
+  },
+  {
+    "char": "每",
+    "pinyin": "měi",
+    "translation": "Каждый",
+    "example": "我每天都去跑步。",
+    "exTranslation": "Я каждый день хожу бегать."
+  },
+  {
+    "char": "妹妹",
+    "pinyin": "mèimei",
+    "translation": "Младшая сестра",
+    "example": "我妹妹在学跳舞。",
+    "exTranslation": "Моя младшая сестра учится танцевать."
+  },
+  {
+    "char": "门",
+    "pinyin": "mén",
+    "translation": "Дверь",
+    "example": "请关门。",
+    "exTranslation": "Пожалуйста, закройте дверь."
+  },
+  {
+    "char": "面条",
+    "pinyin": "miàntiáo",
+    "translation": "Лапша",
+    "example": "中午我想吃面条。",
+    "exTranslation": "В обед я хочу поесть лапши."
+  },
+  {
+    "char": "男",
+    "pinyin": "nán",
+    "translation": "Мужчина",
+    "example": "那个男的是谁？",
+    "exTranslation": "Кто тот мужчина?"
+  },
+  {
+    "char": "女",
+    "pinyin": "nǚ",
+    "translation": "Женщина",
+    "example": "那个女学生很聪明。",
+    "exTranslation": "Та студентка очень умная."
+  },
+  {
+    "char": "您",
+    "pinyin": "nín",
+    "translation": "Вы (вежливо)",
+    "example": "老师，您好！",
+    "exTranslation": "Учитель, здравствуйте!"
+  },
+  {
+    "char": "旁边",
+    "pinyin": "pángbiān",
+    "translation": "Рядом",
+    "example": "我坐在他旁边。",
+    "exTranslation": "Я сижу рядом с ним."
+  },
+  {
+    "char": "跑步",
+    "pinyin": "pǎobù",
+    "translation": "Бегать",
+    "example": "跑步对身体好。",
+    "exTranslation": "Бег полезен для здоровья."
+  },
+  {
+    "char": "票",
+    "pinyin": "piào",
+    "translation": "Билет",
+    "example": "我买了两张电影票。",
+    "exTranslation": "Я купил два билета в кино."
+  },
+  {
+    "char": "妻子",
+    "pinyin": "qīzi",
+    "translation": "Жена",
+    "example": "我妻子是医生。",
+    "exTranslation": "Моя жена — врач."
+  },
+  {
+    "char": "起床",
+    "pinyin": "qǐ chuáng",
+    "translation": "Вставать с постели",
+    "example": "我每天七点起床。",
+    "exTranslation": "Я каждый день встаю в семь часов."
+  },
+  {
+    "char": "铅笔",
+    "pinyin": "qiānbǐ",
+    "translation": "Карандаш",
+    "example": "请借给我一支铅笔。",
+    "exTranslation": "Пожалуйста, одолжи мне карандаш."
+  },
+  {
+    "char": "晴",
+    "pinyin": "qíng",
+    "translation": "Ясный / Солнечный",
+    "example": "今天是个晴天。",
+    "exTranslation": "Сегодня солнечный день."
+  },
+  {
+    "char": "去年",
+    "pinyin": "qùnián",
+    "translation": "Прошлый год",
+    "example": "去年我去过上海。",
+    "exTranslation": "В прошлом году я был в Шанхае."
+  },
+  {
+    "char": "让",
+    "pinyin": "ràng",
+    "translation": "Заставлять / Позволять",
+    "example": "老师让我读课文。",
+    "exTranslation": "Учитель заставил меня читать текст."
+  },
+  {
+    "char": "上班",
+    "pinyin": "shàngbān",
+    "translation": "Идти на работу",
+    "example": "我九点上班。",
+    "exTranslation": "Я иду на работу к девяти."
+  },
+  {
+    "char": "生日",
+    "pinyin": "shēngrì",
+    "translation": "День рождения",
+    "example": "你的生日是几月几号？",
+    "exTranslation": "Какого числа твой день рождения?"
+  },
+  {
+    "char": "时间",
+    "pinyin": "shíjiān",
+    "translation": "Время",
+    "example": "我没有时间去看电影。",
+    "exTranslation": "У меня нет времени идти в кино."
+  },
+  {
+    "char": "事情",
+    "pinyin": "shìqing",
+    "translation": "Дело / Событие",
+    "example": "你有什么事情吗？",
+    "exTranslation": "У тебя есть какое-то дело?"
+  },
+  {
+    "char": "手表",
+    "pinyin": "shǒubiǎo",
+    "translation": "Наручные часы",
+    "example": "这个手表很漂亮。",
+    "exTranslation": "эти часы очень красивые."
+  },
+  {
+    "char": "手机",
+    "pinyin": "shǒujī",
+    "translation": "Мобильный телефон",
+    "example": "他在看手机。",
+    "exTranslation": "Он смотрит в телефон."
+  },
+  {
+    "char": "说话",
+    "pinyin": "shuōhuà",
+    "translation": "Разговаривать",
+    "example": "请不要说话。",
+    "exTranslation": "Пожалуйста, не разговаривайте."
+  },
+  {
+    "char": "送",
+    "pinyin": "sòng",
+    "translation": "Дарить / Доставлять",
+    "example": "我送你一本书。",
+    "exTranslation": "Я подарю тебе книгу."
+  },
+  {
+    "char": "虽然",
+    "pinyin": "suīrán",
+    "translation": "Хотя",
+    "example": "虽然很累，但我很高兴。",
+    "exTranslation": "Хотя я устал, я очень рад."
+  },
+  {
+    "char": "但是",
+    "pinyin": "dànshì",
+    "translation": "Но",
+    "example": "我想去，但是没有钱。",
+    "exTranslation": "Я хочу пойти, но нет денег."
+  },
+  {
+    "char": "它",
+    "pinyin": "tā",
+    "translation": "Оно (для предметов/животных)",
+    "example": "我喜欢这只猫，它很可爱。",
+    "exTranslation": "Мне нравится эта кошка, она очень милая."
+  },
+  {
+    "char": "踢足球",
+    "pinyin": "tī zúqiú",
+    "translation": "Играть в футбол",
+    "example": "男孩们在踢足球。",
+    "exTranslation": "Мальчики играют в футбол."
+  },
+  {
+    "char": "题",
+    "pinyin": "tí",
+    "translation": "Вопрос / Тема",
+    "example": "这个题很难。",
+    "exTranslation": "Это задание/вопрос очень трудное."
+  },
+  {
+    "char": "跳舞",
+    "pinyin": "tiàowǔ",
+    "translation": "Танцевать",
+    "example": "她跳舞跳得非常好。",
+    "exTranslation": "Она очень хорошо танцует."
+  },
+  {
+    "char": "外",
+    "pinyin": "wài",
+    "translation": "Снаружи / Внешний",
+    "example": "外边下雨了。",
+    "exTranslation": "На улице пошел дождь."
+  },
+  {
+    "char": "完",
+    "pinyin": "wán",
+    "translation": "Заканчивать",
+    "example": "我看完了这本书。",
+    "exTranslation": "Я дочитал эту книгу."
+  },
+  {
+    "char": "玩",
+    "pinyin": "wán",
+    "translation": "Играть / Развлекаться",
+    "example": "他在玩电脑游戏。",
+    "exTranslation": "Он играет в компьютерные игры."
+  },
+  {
+    "char": "晚上",
+    "pinyin": "wǎnshang",
+    "translation": "Вечер",
+    "example": "晚上我不在家。",
+    "exTranslation": "Вечером меня нет дома."
+  },
+  {
+    "char": "为什么",
+    "pinyin": "wèishénme",
+    "translation": "Почему",
+    "example": "你为什么不高兴？",
+    "exTranslation": "Почему ты не рад?"
+  },
+  {
+    "char": "西瓜",
+    "pinyin": "xīguā",
+    "translation": "Арбуз",
+    "example": "夏天吃西瓜很舒服。",
+    "exTranslation": "Летом есть арбуз очень приятно."
+  },
+  {
+    "char": "运动",
+    "pinyin": "yùndòng",
+    "translation": "Спорт / Заниматься спортом",
+    "example": "你喜欢什么运动？",
+    "exTranslation": "Какой спорт тебе нравится?"
+  },
+  {
+    "char": "游泳",
+    "pinyin": "yóuyǒng",
+    "translation": "Плавать",
+    "example": "我会游泳，但不常去。",
+    "exTranslation": "Я умею плавать, но хожу не часто."
+  },
+  {
+    "char": "早饭",
+    "pinyin": "zǎofàn",
+    "translation": "Завтрак",
+    "example": "你早饭吃了吗？",
+    "exTranslation": "Ты уже позавтракал?"
+  },
+  {
+    "char": "午饭",
+    "pinyin": "wǔfàn",
+    "translation": "Обед",
+    "example": "我们一起吃午饭吧。",
+    "exTranslation": "Давай пообедаем вместе."
+  },
+  {
+    "char": "刚才",
+    "pinyin": "gāngcái",
+    "translation": "Только что",
+    "example": "刚才谁来过了？",
+    "exTranslation": "Кто сейчас заходил?"
+  },
+  {
+    "char": "别",
+    "pinyin": "bié",
+    "translation": "Не (в повелении)",
+    "example": "别说话，听老师讲课。",
+    "exTranslation": "Не разговаривай, слушай учителя."
+  },
+  {
+    "char": "超市",
+    "pinyin": "chāoshì",
+    "translation": "Супермаркет",
+    "example": "超市就在学校旁边。",
+    "exTranslation": "Супермаркет прямо рядом со школой."
+  },
+  {
+    "char": "成绩",
+    "pinyin": "chéngjì",
+    "translation": "Результат / Успеваемость",
+    "example": "他的考试成绩很好。",
+    "exTranslation": "У него хорошие результаты на экзамене."
+  },
+  {
+    "char": "城市",
+    "pinyin": "chéngshì",
+    "translation": "Город",
+    "example": "这是一个非常美丽的城市。",
+    "exTranslation": "Это очень красивый город."
+  },
+  {
+    "char": "厨房",
+    "pinyin": "chúfáng",
+    "translation": "Кухня",
+    "example": "妈妈在厨房做饭。",
+    "exTranslation": "Мама готовит на кухне."
+  },
+  {
+    "char": "突然",
+    "pinyin": "tūrán",
+    "translation": "Вдруг / Внезапно",
+    "example": "天突然下雨了。",
+    "exTranslation": "Внезапно пошел дождь."
+  },
+  {
+    "char": "聪明",
+    "pinyin": "cōngming",
+    "translation": "Умный",
+    "example": "这孩子真聪明。",
+    "exTranslation": "Этот ребенок действительно умный."
+  },
+  {
+    "char": "打算",
+    "pinyin": "dǎsuàn",
+    "translation": "Планировать / Намереваться",
+    "example": "周末你打算做什么？",
+    "exTranslation": "Что ты планируешь делать в выходные?"
+  },
+  {
+    "char": "担心",
+    "pinyin": "dānxīn",
+    "translation": "Беспокоиться",
+    "example": "别担心，一切都会好的。",
+    "exTranslation": "Не беспокойся, все будет хорошо."
+  },
+  {
+    "char": "灯",
+    "pinyin": "dēng",
+    "translation": "Лампа / Свет",
+    "example": "请把灯关上。",
+    "exTranslation": "Пожалуйста, выключи свет."
+  },
+  {
+    "char": "地方",
+    "pinyin": "dìfang",
+    "translation": "Место",
+    "example": "这个地方我没去过。",
+    "exTranslation": "В этом месте я еще не был."
+  },
+  {
+    "char": "电梯",
+    "pinyin": "diàntī",
+    "translation": "Лифт",
+    "example": "坐电梯上十楼。",
+    "exTranslation": "Поднимитесь на лифте на 10-й этаж."
+  },
+  {
+    "char": "电子邮件",
+    "pinyin": "diànzǐ yóujiàn",
+    "translation": "Электронная почта",
+    "example": "给我发个电子邮件吧。",
+    "exTranslation": "Отправь мне электронное письмо."
+  },
+  {
+    "char": "翻译",
+    "pinyin": "fānyì",
+    "translation": "Перевод / Переводчик",
+    "example": "请帮我翻译一下这句话。",
+    "exTranslation": "Пожалуйста, помоги мне перевести эту фразу."
+  },
+  {
+    "char": "方便",
+    "pinyin": "fāngbiàn",
+    "translation": "Удобный",
+    "example": "坐地铁去上班很方便。",
+    "exTranslation": "Ездить на работу на метро очень удобно."
+  },
+  {
+    "char": "放心",
+    "pinyin": "fàngxīn",
+    "translation": "Успокоиться / Не волноваться",
+    "example": "请放心，我会按时完成。",
+    "exTranslation": "Пожалуйста, не волнуйтесь, я закончу вовремя."
+  },
+  {
+    "char": "附近",
+    "pinyin": "fùjìn",
+    "translation": "Окрестности / Поблизости",
+    "example": "我家附近有一个公园。",
+    "exTranslation": "Рядом с моим домом есть парк."
+  },
+  {
+    "char": "复习",
+    "pinyin": "fùxí",
+    "translation": "Повторять (урок)",
+    "example": "考试前要好好复习。",
+    "exTranslation": "Перед экзаменом нужно хорошо все повторить."
+  },
+  {
+    "char": "干净",
+    "pinyin": "gānjìng",
+    "translation": "Чистый",
+    "example": "房间打扫得很干净。",
+    "exTranslation": "В комнате убрано очень чисто."
+  },
+  {
+    "char": "感冒",
+    "pinyin": "gǎnmào",
+    "translation": "Простудиться",
+    "example": "他感冒了，今天不来课。",
+    "exTranslation": "Он простудился и сегодня не придет на занятия."
+  },
+  {
+    "char": "根据",
+    "pinyin": "gēnjù",
+    "translation": "Согласно / На основании",
+    "example": "根据天气预报，明天有雨。",
+    "exTranslation": "Согласно прогнозу погоды, завтра будет дождь."
+  },
+  {
+    "char": "习惯",
+    "pinyin": "xíguàn",
+    "translation": "Привычка / Привыкать",
+    "example": "我已经习惯了这里的早起。",
+    "exTranslation": "Я уже привык здесь рано вставать."
+  },
+  {
+    "char": "关心",
+    "pinyin": "guānxīn",
+    "translation": "Заботиться / Забота",
+    "example": "谢谢你对我的关心。",
+    "exTranslation": "Спасибо за твою заботу обо мне."
+  },
+  {
+    "char": "还是",
+    "pinyin": "háishi",
+    "translation": "Или (в вопросах)",
+    "example": "你喝咖啡还是喝茶？",
+    "exTranslation": "Ты пьешь кофе или чай?"
+  },
+  {
+    "char": "害怕",
+    "pinyin": "hàipà",
+    "translation": "Бояться",
+    "example": "我不害怕困难。",
+    "exTranslation": "Я не боюсь трудностей."
+  },
+  {
+    "char": "换",
+    "pinyin": "huàn",
+    "translation": "Менять",
+    "example": "我想去银行换点钱。",
+    "exTranslation": "Я хочу сходить в банк поменять денег."
+  },
+  {
+    "char": "机会",
+    "pinyin": "jīhuì",
+    "translation": "Шанс / Возможность",
+    "example": "这是一个学习的好机会。",
+    "exTranslation": "Это хорошая возможность для учебы."
+  },
+  {
+    "char": "极了",
+    "pinyin": "jíle",
+    "translation": "Крайне / Очень",
+    "example": "今天的天气好极了。",
+    "exTranslation": "Сегодняшняя погода просто прекрасна."
+  },
+  {
+    "char": "记得",
+    "pinyin": "jìde",
+    "translation": "Помнить",
+    "example": "你不记得我了吗？",
+    "exTranslation": "Ты меня не помнишь?"
+  },
+  {
+    "char": "季节",
+    "pinyin": "jìjié",
+    "translation": "Сезон",
+    "example": "一年有四个季节。",
+    "exTranslation": "В году четыре сезона."
+  },
+  {
+    "char": "检查",
+    "pinyin": "jiǎnchá",
+    "translation": "Проверять",
+    "example": "写完后请检查一遍。",
+    "exTranslation": "После того как напишешь, проверь еще раз."
+  },
+  {
+    "char": "健康",
+    "pinyin": "jiànkāng",
+    "translation": "Здоровье / Здоровый",
+    "example": "身体健康最重要。",
+    "exTranslation": "Здоровье — это самое важное."
+  },
+  {
+    "char": "简单",
+    "pinyin": "jiǎndān",
+    "translation": "Простой",
+    "example": "这个问题很简单。",
+    "exTranslation": "Этот вопрос очень простой."
+  },
+  {
+    "char": "见面",
+    "pinyin": "jiàn miàn",
+    "translation": "Встречаться",
+    "example": "我们明天几点见面？",
+    "exTranslation": "Во сколько мы завтра встретимся?"
+  },
+  {
+    "char": "讲",
+    "pinyin": "jiǎng",
+    "translation": "Рассказывать / Объяснять",
+    "example": "老师在讲课。",
+    "exTranslation": "Учитель объясняет урок."
+  },
+  {
+    "char": "脚",
+    "pinyin": "jiǎo",
+    "translation": "Нога (ступня)",
+    "example": "我的脚有点痛。",
+    "exTranslation": "У меня немного болит нога."
+  },
+  {
+    "char": "决定",
+    "pinyin": "juédìng",
+    "translation": "Решать / Решение",
+    "example": "我决定去中国留学。",
+    "exTranslation": "Я решил поехать в Китай на учебу."
+  },
+  {
+    "char": "经常",
+    "pinyin": "jīngcháng",
+    "translation": "Часто",
+    "example": "他经常去图书馆。",
+    "exTranslation": "Он часто ходит в библиотеку."
+  },
+  {
+    "char": "经过",
+    "pinyin": "jīngguò",
+    "translation": "Проходить мимо / Через",
+    "example": "我每天都经过这家书店。",
+    "exTranslation": "Я каждый день прохожу мимо этого книжного магазина."
+  },
+  {
+    "char": "渴",
+    "pinyin": "kě",
+    "translation": "Жаждущий (хотеть пить)",
+    "example": "我很渴，想喝点水。",
+    "exTranslation": "Я очень хочу пить, хочу немного воды."
+  },
+  {
+    "char": "刻",
+    "pinyin": "kè",
+    "translation": "Четверть часа",
+    "example": "现在是三点一刻。",
+    "exTranslation": "Сейчас три часа пятнадцать минут."
+  },
+  {
+    "char": "半",
+    "pinyin": "bàn",
+    "translation": "Половина",
+    "example": "现在三点半。",
+    "exTranslation": "Сейчас половина четвертого."
+  },
+  {
+    "char": "以后",
+    "pinyin": "yǐhòu",
+    "translation": "После / Потом",
+    "example": "下课以后我去吃饭。",
+    "exTranslation": "После уроков я пойду поесть."
+  },
+  {
+    "char": "以前",
+    "pinyin": "yǐqián",
+    "translation": "Раньше / До",
+    "example": "他以前是老师。",
+    "exTranslation": "Раньше он был учителем."
+  },
+  {
+    "char": "衬衫",
+    "pinyin": "chènshān",
+    "translation": "Рубашка",
+    "example": "这件白衬衫很漂亮。",
+    "exTranslation": "Эта белая рубашка очень красивая."
+  },
+  {
+    "char": "裤子",
+    "pinyin": "kùzi",
+    "translation": "Брюки",
+    "example": "我要买一条裤子。",
+    "exTranslation": "Я хочу купить брюки."
+  },
+  {
+    "char": "鞋",
+    "pinyin": "xié",
+    "translation": "Обувь",
+    "example": "这双鞋太小了。",
+    "exTranslation": "Эта пара обуви слишком мала."
+  },
+  {
+    "char": "礼物",
+    "pinyin": "lǐwù",
+    "translation": "Подарок",
+    "example": "这是送给你的礼物。",
+    "exTranslation": "Это подарок для тебя."
+  },
+  {
+    "char": "生日快乐",
+    "pinyin": "shēngrì kuàilè",
+    "translation": "С днем рождения",
+    "example": "祝你生日快乐！",
+    "exTranslation": "Желаю тебе счастливого дня рождения!"
+  },
+  {
+    "char": "洗手间",
+    "pinyin": "xǐshǒujiān",
+    "translation": "Туалет",
+    "example": "请问，洗手间在哪儿？",
+    "exTranslation": "Подскажите, пожалуйста, где туалет?"
+  },
+  {
+    "char": "热水",
+    "pinyin": "rèshuǐ",
+    "translation": "Горячая вода",
+    "example": "请给我一杯热水。",
+    "exTranslation": "Пожалуйста, дайте мне стакан горячей воды."
+  },
+  {
+    "char": "甜",
+    "pinyin": "tián",
+    "translation": "Сладкий",
+    "example": "这个西瓜很甜。",
+    "exTranslation": "Этот арбуз очень сладкий."
+  },
+  {
+    "char": "咸",
+    "pinyin": "xián",
+    "translation": "Соленый",
+    "example": "菜有点儿咸。",
+    "exTranslation": "Блюдо немного пересолено."
+  },
+  {
+    "char": "苦",
+    "pinyin": "kǔ",
+    "translation": "Горький",
+    "example": "药很苦。",
+    "exTranslation": "Лекарство горькое."
+  },
+  {
+    "char": "辣",
+    "pinyin": "là",
+    "translation": "Острый",
+    "example": "我不喜欢吃辣的。",
+    "exTranslation": "Я не люблю острое."
+  },
+  {
+    "char": "酸",
+    "pinyin": "suān",
+    "translation": "Кислый",
+    "example": "这个苹果有点酸。",
+    "exTranslation": "Это яблоко немного кислое."
+  },
+  {
+    "char": "颜色",
+    "pinyin": "yánsè",
+    "translation": "Цвет",
+    "example": "你喜欢什么颜色？",
+    "exTranslation": "Какой цвет тебе нравится?"
+  },
+  {
+    "char": "蓝色",
+    "pinyin": "lánsè",
+    "translation": "Синий",
+    "example": "天是蓝色的。",
+    "exTranslation": "Небо синего цвета."
+  },
+  {
+    "char": "白色",
+    "pinyin": "báisè",
+    "translation": "Белый",
+    "example": "我有一件白色的衬衫。",
+    "exTranslation": "У меня есть белая рубашка."
+  },
+  {
+    "char": "总是",
+    "pinyin": "zǒngshì",
+    "translation": "Всегда",
+    "example": "他总是很忙。",
+    "exTranslation": "Он всегда очень занят."
+  },
+  {
+    "char": "有时候",
+    "pinyin": "yǒushíhou",
+    "translation": "Иногда",
+    "example": "我有时候喝茶。",
+    "exTranslation": "Я иногда пью чай."
+  },
+  {
+    "char": "安静",
+    "pinyin": "ānjìng",
+    "translation": "Тихий / Тишина",
+    "example": "教室里很安静。",
+    "exTranslation": "В аудитории очень тихо."
+  },
+  {
+    "char": "清楚",
+    "pinyin": "qīngchu",
+    "translation": "Ясный / Понятный",
+    "example": "你说得不清楚。",
+    "exTranslation": "Ты говоришь неразборчиво."
+  },
+  {
+    "char": "了解",
+    "pinyin": "liǎojiě",
+    "translation": "Понимать / Разбираться",
+    "example": "我不了解这件事情。",
+    "exTranslation": "Я не в курсе этого дела."
+  },
+  {
+    "char": "满意",
+    "pinyin": "mǎnyì",
+    "translation": "Довольный",
+    "example": "我对他的工作很满意。",
+    "exTranslation": "Я очень доволен его работой."
+  },
+  {
+    "char": "舒服",
+    "pinyin": "shūfu",
+    "translation": "Удобный / Комфортный",
+    "example": "躺在床上很舒服。",
+    "exTranslation": "Лежать на кровати очень удобно."
+  },
+  {
+    "char": "运动鞋",
+    "pinyin": "yùndòngxié",
+    "translation": "Кроссовки",
+    "example": "我想买一双运动鞋。",
+    "exTranslation": "Я хочу купить пару кроссовок."
+  },
+  {
+    "char": "几乎",
+    "pinyin": "jīhū",
+    "translation": "Почти",
+    "example": "我几乎忘了。",
+    "exTranslation": "Я почти забыл."
+  },
+  {
+    "char": "必须",
+    "pinyin": "bìxū",
+    "translation": "Должен / Обязательно",
+    "example": "你必须去学校。",
+    "exTranslation": "Ты должен идти в школу."
+  },
+  {
+    "char": "世界",
+    "pinyin": "shìjiè",
+    "translation": "Мир",
+    "example": "世界上有很多人。",
+    "exTranslation": "В мире много людей."
+  },
+  {
+    "char": "故事",
+    "pinyin": "gùshi",
+    "translation": "История / Рассказ",
+    "example": "给我讲一个故事吧。",
+    "exTranslation": "Расскажи мне какую-нибудь историю."
+  },
+  {
+    "char": "办法",
+    "pinyin": "bànfǎ",
+    "translation": "Способ / Метод",
+    "example": "这是一个好办法。",
+    "exTranslation": "Это хороший способ."
+  },
+  {
+    "char": "其实",
+    "pinyin": "qíshí",
+    "translation": "На самом деле",
+    "example": "其实我不想去。",
+    "exTranslation": "На самом деле я не хочу идти."
+  },
+  {
+    "char": "重要",
+    "pinyin": "zhòngyào",
+    "translation": "Важный",
+    "example": "学习很重要。",
+    "exTranslation": "Учиться — это важно."
+  },
+  {
+    "char": "注意",
+    "pinyin": "zhùyì",
+    "translation": "Обращать внимание",
+    "example": "请注意听我说。",
+    "exTranslation": "Пожалуйста, слушайте меня внимательно."
+  },
+  {
+    "char": "发现",
+    "pinyin": "fāxiàn",
+    "translation": "Обнаружить / Найти",
+    "example": "我发现他不在家。",
+    "exTranslation": "Я обнаружил, что его нет дома."
+  },
+  {
+    "char": "变化",
+    "pinyin": "biànhuà",
+    "translation": "Перемена / Изменение",
+    "example": "北京的变化很大。",
+    "exTranslation": "В Пекине произошли большие перемены."
+  },
+  {
+    "char": "最后",
+    "pinyin": "zuìhòu",
+    "translation": "Последний / В конце",
+    "example": "这是最后一次。",
+    "exTranslation": "Это последний раз."
+  },
+  {
+    "char": "如果",
+    "pinyin": "rúguǒ",
+    "translation": "Если",
+    "example": "如果你有钱，你想买什么？",
+    "exTranslation": "Если бы у тебя были деньги, что бы ты купил?"
+  },
+  {
+    "char": "各种各样",
+    "pinyin": "gè zhǒng gè yàng",
+    "translation": "Разнообразный",
+    "example": "超市里有各种各样的水果。",
+    "exTranslation": "В супермаркете есть самые разные фрукты."
+  },
+  {
+    "char": "练习",
+    "pinyin": "liànxí",
+    "translation": "Упражнение / Практиковаться",
+    "example": "我们要多做练习。",
+    "exTranslation": "Нам нужно больше практиковаться."
+  },
+  {
+    "char": "提高",
+    "pinyin": "tígāo",
+    "translation": "Повышать / Улучшать",
+    "example": "我想提高我的汉语水平。",
+    "exTranslation": "Я хочу повысить свой уровень китайского."
+  },
+  {
+    "char": "水平",
+    "pinyin": "shuǐpíng",
+    "translation": "Уровень",
+    "example": "你的水平很高。",
+    "exTranslation": "У тебя высокий уровень."
+  },
+  {
+    "char": "完成",
+    "pinyin": "wánchéng",
+    "translation": "Завершить",
+    "example": "工作已经完成了。",
+    "exTranslation": "Работа уже завершена."
+  },
+  {
+    "char": "照顾",
+    "pinyin": "zhàogù",
+    "translation": "Заботиться / Присматривать",
+    "example": "请帮我照顾一下猫。",
+    "exTranslation": "Пожалуйста, присмотри за моей кошкой."
+  },
+  {
+    "char": "普通话",
+    "pinyin": "pǔtōnghuà",
+    "translation": "Путунхуа",
+    "example": "你说普通话吗？",
+    "exTranslation": "Вы говорите на путунхуа?"
+  },
+  {
+    "char": "司机",
+    "pinyin": "sījī",
+    "translation": "Водитель",
+    "example": "司机关上了门。",
+    "exTranslation": "Водитель закрыл дверь."
+  },
+  {
+    "char": "太阳",
+    "pinyin": "tàiyáng",
+    "translation": "Солнце",
+    "example": "今天的太阳很大。",
+    "exTranslation": "Сегодня очень солнечно (сильное солнце)."
+  },
+  {
+    "char": "月亮",
+    "pinyin": "yuèliang",
+    "translation": "Луна",
+    "example": "月亮很圆。",
+    "exTranslation": "Луна очень круглая."
+  },
+  {
+    "char": "新闻",
+    "pinyin": "xīnwén",
+    "translation": "Новости",
+    "example": "我看新闻呢。",
+    "exTranslation": "Я смотрю новости."
+  },
+  {
+    "char": "有名",
+    "pinyin": "yǒumíng",
+    "translation": "Известный",
+    "example": "长城很有名。",
+    "exTranslation": "Великая стена очень известна."
+  },
+  {
+    "char": "地图",
+    "pinyin": "dìtú",
+    "translation": "Карта",
+    "example": "墙上有一张地图。",
+    "exTranslation": "На стене висит карта."
+  },
+  {
+    "char": "愿意",
+    "pinyin": "yuànyì",
+    "translation": "Желать / Хотеть",
+    "example": "你愿意和我一起去吗？",
+    "exTranslation": "Ты хочешь пойти со мной?"
+  },
+  {
+    "char": "离开",
+    "pinyin": "líkāi",
+    "translation": "Покидать / Уходить",
+    "example": "他离开家了。",
+    "exTranslation": "Он ушел из дома."
+  },
+  {
+    "char": "由于",
+    "pinyin": "yóuyú",
+    "translation": "Из-за / Благодаря",
+    "example": "由于天气不好，他不来了。",
+    "exTranslation": "Из-за плохой погоды он не придет."
+  },
+  {
+    "char": "或者",
+    "pinyin": "huòzhě",
+    "translation": "Или (в утверждении)",
+    "example": "你可以喝茶或者咖啡。",
+    "exTranslation": "Ты можешь выпить чаю или кофе."
+  },
+  {
+    "char": "相信",
+    "pinyin": "xiāngxìn",
+    "translation": "Верить",
+    "example": "我不相信他。",
+    "exTranslation": "Я ему не верю."
+  },
+  {
+    "char": "有趣",
+    "pinyin": "yǒuqù",
+    "translation": "Интересный",
+    "example": "这个故事很有趣。",
+    "exTranslation": "Эта история очень интересная."
+  },
+  {
+    "char": "同意",
+    "pinyin": "tóngyì",
+    "translation": "Соглашаться",
+    "example": "我同意你的看法。",
+    "exTranslation": "Я согласен с твоим мнением."
+  },
+  {
+    "char": "奇怪",
+    "pinyin": "qíguài",
+    "translation": "Странный",
+    "example": "他今天有点儿奇怪。",
+    "exTranslation": "Он сегодня какой-то странный."
+  },
+  {
+    "char": "虽然...但是",
+    "pinyin": "suīrán... dànshì",
+    "translation": "Хотя... но",
+    "example": "虽然很累，但是很开心。",
+    "exTranslation": "Хотя я устал, но очень рад."
+  },
+  {
+    "char": "只有...才",
+    "pinyin": "zhǐyǒu... cái",
+    "translation": "Только если... то",
+    "example": "只有多练习，才能学好。",
+    "exTranslation": "Только если много практиковаться, можно выучить хорошо."
+  },
+  {
+    "char": "除了",
+    "pinyin": "chúle",
+    "translation": "Кроме",
+    "example": "除了他，大家都来了。",
+    "exTranslation": "Кроме него, пришли все."
+  },
+  {
+    "char": "越...越",
+    "pinyin": "yuè... yuè",
+    "translation": "Чем... тем",
+    "example": "天越来越冷了。",
+    "exTranslation": "Становится все холоднее и холоднее."
+  },
+  {
+    "char": "特别",
+    "pinyin": "tèbié",
+    "translation": "Особенный / Особенно",
+    "example": "这个菜特别好吃。",
+    "exTranslation": "Это блюдо особенно вкусное."
+  },
+  {
+    "char": "努力",
+    "pinyin": "nǔlì",
+    "translation": "Старательный",
+    "example": "努力学习。",
+    "exTranslation": "Старательно учиться."
+  },
+  {
+    "char": "成功",
+    "pinyin": "chénggōng",
+    "translation": "Успех / Успешный",
+    "example": "祝你成功！",
+    "exTranslation": "Желаю тебе успеха!"
+  },
+  {
+    "char": "环境",
+    "pinyin": "huánjìng",
+    "translation": "Окружающая среда",
+    "example": "这里的环境很好。",
+    "exTranslation": "Здесь очень хорошая обстановка."
+  },
+  {
+    "char": "照片",
+    "pinyin": "zhàopiàn",
+    "translation": "Фотография",
+    "example": "这是我的照片。",
+    "exTranslation": "Это моя фотография."
+  },
+  {
+    "char": "照相机",
+    "pinyin": "zhàoxiàngjī",
+    "translation": "Фотоаппарат",
+    "example": "我买了一个新照相机。",
+    "exTranslation": "Я купил новый фотоаппарат."
+  },
+  {
+    "char": "节日",
+    "pinyin": "jiérì",
+    "translation": "Праздник",
+    "example": "春节是中国最重要的节日。",
+    "exTranslation": "Праздник весны — самый важный праздник в Китае."
+  },
+  {
+    "char": "邻居",
+    "pinyin": "línjū",
+    "translation": "Сосед",
+    "example": "我的邻居很友好。",
+    "exTranslation": "Мой сосед очень дружелюбный."
+  },
+  {
+    "char": "关于",
+    "pinyin": "guānyú",
+    "translation": "О / Относительно",
+    "example": "关于这个问题。",
+    "exTranslation": "Относительно этого вопроса."
+  },
+  {
+    "char": "希望",
+    "pinyin": "xīwàng",
+    "translation": "Надеяться / Надежда",
+    "example": "我希望明天是个晴天。",
+    "exTranslation": "Надеюсь, завтра будет солнечный день."
+  },
+  {
+    "char": "要求",
+    "pinyin": "yāoqiú",
+    "translation": "Требовать / Требование",
+    "example": "老师对我们的要求很高。",
+    "exTranslation": "Учитель предъявляет к нам высокие требования."
+  },
+  {
+    "char": "笔记本",
+    "pinyin": "bǐjìběn",
+    "translation": "Ноутбук / Блокнот",
+    "example": "他在笔记本上写字。",
+    "exTranslation": "Он пишет в блокноте."
+  },
+  {
+    "char": "不但...而且",
+    "pinyin": "búdàn... érqiě",
+    "translation": "Не только... но и",
+    "example": "她不但漂亮，而且很聪明。",
+    "exTranslation": "Она не только красивая, но и умная."
+  },
+  {
+    "char": "拿",
+    "pinyin": "ná",
+    "translation": "Брать / Держать",
+    "example": "手里拿一张纸。",
+    "exTranslation": "Держать в руке лист бумаги."
+  },
+  {
+    "char": "关系",
+    "pinyin": "guānxì",
+    "translation": "Связь / Отношения",
+    "example": "他们关系很好。",
+    "exTranslation": "У них хорошие отношения."
+  },
+  {
+    "char": "选择",
+    "pinyin": "xuǎnzé",
+    "translation": "Выбирать / Выбор",
+    "example": "这是你的选择。",
+    "exTranslation": "Это твой выбор."
+  },
+  {
+    "char": "解决",
+    "pinyin": "jiějué",
+    "translation": "Решать (проблему)",
+    "example": "解决问题。",
+    "exTranslation": "Решить проблему."
+  },
+  {
+    "char": "认真",
+    "pinyin": "rènzhēn",
+    "translation": "Серьезный / Ответственный",
+    "example": "认真学习。",
+    "exTranslation": "Учиться со всей серьезностью."
+  },
+  {
+    "char": "着急",
+    "pinyin": "zháojí",
+    "translation": "Волноваться / Торопиться",
+    "example": "别着急，慢慢来。",
+    "exTranslation": "Не волнуйся, делай потихоньку."
+  },
+  {
+    "char": "甚至",
+    "pinyin": "shènzhì",
+    "translation": "Даже / Вплоть до того, что",
+    "example": "他甚至忘了吃饭。",
+    "exTranslation": "Он даже забыл поесть."
+  },
+  {
+    "char": "考虑",
+    "pinyin": "kǎolǜ",
+    "translation": "Обдумывать",
+    "example": "我会考虑你的建议。",
+    "exTranslation": "Я обдумаю твое предложение."
+  },
+  {
+    "char": "明白",
+    "pinyin": "míngbai",
+    "translation": "Понимать",
+    "example": "你明白我的意思吗？",
+    "exTranslation": "Ты понимаешь, что я имею в виду?"
+  },
+  {
+    "char": "参加",
+    "pinyin": "cānjiā",
+    "translation": "Участвовать",
+    "example": "参加会议。",
+    "exTranslation": "Участвовать в собрании."
+  },
+  {
+    "char": "改变",
+    "pinyin": "gǎibiàn",
+    "translation": "Изменять",
+    "example": "改变主意。",
+    "exTranslation": "Изменить решение (мнение)."
+  },
+  {
+    "char": "难过",
+    "pinyin": "nánguò",
+    "translation": "Грустный / Тяжело на душе",
+    "example": "他感到很难过。",
+    "exTranslation": "Ему очень грустно."
+  },
+  {
+    "char": "星星",
+    "pinyin": "xīngxing",
+    "translation": "Звезды",
+    "example": "天上有很多星星。",
+    "exTranslation": "На небе много звезд."
+  },
+  {
+    "char": "云",
+    "pinyin": "yún",
+    "translation": "Облако",
+    "example": "白云很漂亮。",
+    "exTranslation": "Белые облака очень красивые."
+  },
+  {
+    "char": "风",
+    "pinyin": "fēng",
+    "translation": "Ветер",
+    "example": "刮大风了。",
+    "exTranslation": "Дует сильный ветер."
+  },
+  {
+    "char": "雪",
+    "pinyin": "xuě",
+    "translation": "Снег",
+    "example": "下雪了。",
+    "exTranslation": "Идет снег."
+  },
+  {
+    "char": "树",
+    "pinyin": "shù",
+    "translation": "Дерево",
+    "example": "那棵树很高。",
+    "exTranslation": "Тот дерево очень высокое."
+  },
+  {
+    "char": "花",
+    "pinyin": "huā",
+    "translation": "Цветок",
+    "example": "这些花很香。",
+    "exTranslation": "Эти цветы очень ароматные."
+  },
+  {
+    "char": "草",
+    "pinyin": "cǎo",
+    "translation": "Трава",
+    "example": "草地是绿色的。",
+    "exTranslation": "Трава зеленого цвета."
+  },
+  {
+    "char": "山",
+    "pinyin": "shān",
+    "translation": "Гора",
+    "example": "我家后边有一座山。",
+    "exTranslation": "За моим домом есть гора."
+  },
+  {
+    "char": "河",
+    "pinyin": "hé",
+    "translation": "Река",
+    "example": "河水很清。",
+    "exTranslation": "Речная вода очень чистая."
+  },
+  {
+    "char": "海",
+    "pinyin": "hǎi",
+    "translation": "Море",
+    "example": "大海很蓝。",
+    "exTranslation": "Море очень синее."
+  },
+  {
+    "char": "公园",
+    "pinyin": "gōngyuán",
+    "translation": "Парк",
+    "example": "去公园散步。",
+    "exTranslation": "Пойти в парк на прогулку."
+  },
+  {
+    "char": "银行",
+    "pinyin": "yínháng",
+    "translation": "Банк",
+    "example": "银行在超市旁边。",
+    "exTranslation": "Банк находится рядом с супермаркетом."
+  },
+  {
+    "char": "图书馆",
+    "pinyin": "túshūguǎn",
+    "translation": "Библиотека",
+    "example": "我在图书馆借书。",
+    "exTranslation": "Я беру книги в библиотеке."
+  },
+  {
+    "char": "国家",
+    "pinyin": "guójiā",
+    "translation": "Страна",
+    "example": "中国是一个大国家。",
+    "exTranslation": "Китай — большая страна."
+  },
+  {
+    "char": "相机",
+    "pinyin": "xiàngjī",
+    "translation": "Камера",
+    "example": "用相机照相。",
+    "exTranslation": "Снимать на камеру."
+  },
+  {
+    "char": "音乐",
+    "pinyin": "yīnyuè",
+    "translation": "Музыка",
+    "example": "听好听的音乐。",
+    "exTranslation": "Слушать приятную музыку."
+  },
+  {
+    "char": "雨伞",
+    "pinyin": "yǔsǎn",
+    "translation": "Зонт",
+    "example": "别忘了带雨伞。",
+    "exTranslation": "Не забудь взять зонт."
+  },
+  {
+    "char": "行李",
+    "pinyin": "xíngli",
+    "translation": "Багаж",
+    "example": "你的行李太重了。",
+    "exTranslation": "Твой багаж слишком тяжелый."
+  },
+  {
+    "char": "黄色",
+    "pinyin": "huángsè",
+    "translation": "Желтый",
+    "example": "黄色的苹果很甜。",
+    "exTranslation": "Желтые яблоки очень сладкие."
+  },
+  {
+    "char": "绿色",
+    "pinyin": "lǜsè",
+    "translation": "Зеленый",
+    "example": "绿色对眼睛好。",
+    "exTranslation": "Зеленый цвет полезен для глаз."
+  },
+  {
+    "char": "节目",
+    "pinyin": "jiémù",
+    "translation": "Программа (ТВ)",
+    "example": "电视节目很精彩。",
+    "exTranslation": "Телепрограмма очень интересная."
+  },
+  {
+    "char": "比赛",
+    "pinyin": "bǐsài",
+    "translation": "Соревнование",
+    "example": "足球比赛开始了。",
+    "exTranslation": "Футбольный матч начался."
+  },
+  {
+    "char": "认为",
+    "pinyin": "rènwéi",
+    "translation": "Считать/Полагать",
+    "example": "我认为他是对的。",
+    "exTranslation": "Я считаю, что он прав."
+  },
+  {
+    "char": "影响",
+    "pinyin": "yǐngxiǎng",
+    "translation": "Влияние",
+    "example": "天气会影响心情。",
+    "exTranslation": "Погода может влиять на настроение."
+  },
+  {
+    "char": "新鲜",
+    "pinyin": "xīnxiān",
+    "translation": "Свежий",
+    "example": "这些水果很新鲜。",
+    "exTranslation": "Эти фрукты очень свежие."
+  },
+  {
+    "char": "难",
+    "pinyin": "nán",
+    "translation": "Трудный",
+    "example": "汉字很难写。",
+    "exTranslation": "Иероглифы трудно писать."
+  },
+  {
+    "char": "可爱",
+    "pinyin": "kě'ài",
+    "translation": "Милый",
+    "example": "你的小猫真可爱。",
+    "exTranslation": "Твой котенок такой милый."
+  },
+  {
+    "char": "热情",
+    "pinyin": "rèqíng",
+    "translation": "Радушный",
+    "example": "中国人很热情。",
+    "exTranslation": "Китайцы очень гостеприимны."
+  },
+  {
+    "char": "一共",
+    "pinyin": "yígòng",
+    "translation": "Итого/Всего",
+    "example": "一共多少钱？",
+    "exTranslation": "Сколько всего с меня?"
+  },
+  {
+    "char": "已经",
+    "pinyin": "yǐjīng",
+    "translation": "Уже",
+    "example": "他已经走了。",
+    "exTranslation": "Он уже ушел."
+  },
+  {
+    "char": "打扫",
+    "pinyin": "dǎsǎo",
+    "translation": "Убираться",
+    "example": "打扫房间。",
+    "exTranslation": "Убирать комнату."
+  },
+  {
+    "char": "借",
+    "pinyin": "jiè",
+    "translation": "Одалживать",
+    "example": "借给我一些钱。",
+    "exTranslation": "Одолжи мне немного денег."
+  },
+  {
+    "char": "眼镜",
+    "pinyin": "yǎnjìng",
+    "translation": "Очки",
+    "example": "他戴着眼镜。",
+    "exTranslation": "Он носит очки."
+  },
+  {
+    "char": "裙子",
+    "pinyin": "qúnzi",
+    "translation": "Юбка/Платье",
+    "example": "那条裙子很漂亮。",
+    "exTranslation": "Та юбка очень красивая."
+  },
+  {
+    "char": "洗澡",
+    "pinyin": "xǐzǎo",
+    "translation": "Принимать душ",
+    "example": "他正在洗澡。",
+    "exTranslation": "Он сейчас принимает душ."
+  },
+  {
+    "char": "终于",
+    "pinyin": "zhōngyú",
+    "translation": "В конце концов / Наконец-то",
+    "example": "考试终于结束了。",
+    "exTranslation": "Экзамен наконец-то закончился."
+  },
+  {
+    "char": "主要",
+    "pinyin": "zhǔyào",
+    "translation": "Главный / Основной",
+    "example": "主要的问题是什么？",
+    "exTranslation": "В чем основная проблема?"
+  },
+  {
+    "char": "历史",
+    "pinyin": "lìshǐ",
+    "translation": "История",
+    "example": "中国历史很有趣。",
+    "exTranslation": "История Китая очень интересная."
+  },
+  {
+    "char": "不仅",
+    "pinyin": "bùjǐn",
+    "translation": "Не только",
+    "example": "他不仅聪明，还很努力。",
+    "exTranslation": "Он не только умный, но и старательный."
+  },
+  {
+    "char": "通过",
+    "pinyin": "tōngguò",
+    "translation": "Через / С помощью / Пройти (экзамен)",
+    "example": "我通过了HSK考试。",
+    "exTranslation": "Я сдал экзамен HSK."
+  },
+  {
+    "char": "声音",
+    "pinyin": "shēngyīn",
+    "translation": "Звук / Голос",
+    "example": "我听到了他的声音。",
+    "exTranslation": "Я услышал его голос."
+  },
+  {
+    "char": "不但",
+    "pinyin": "búdàn",
+    "translation": "Не только",
+    "example": "我不但会说，还会写。",
+    "exTranslation": "Я не только умею говорить, но и писать."
+  },
+  {
+    "char": "比较",
+    "pinyin": "bǐjiào",
+    "translation": "Сравнительно / Довольно",
+    "example": "这个题比较难。",
+    "exTranslation": "Это задание довольно трудное."
+  },
+  {
+    "char": "一般",
+    "pinyin": "yìbān",
+    "translation": "Обычно / Обычный",
+    "example": "我一般七点起床。",
+    "exTranslation": "Я обычно встаю в семь."
+  },
+  {
+    "char": "过去",
+    "pinyin": "guòqù",
+    "translation": "Прошлое",
+    "example": "忘掉过去吧。",
+    "exTranslation": "Забудь о прошлом."
+  },
+  {
+    "char": "文化",
+    "pinyin": "wénhuà",
+    "translation": "Культура",
+    "example": "我对中国文化感兴趣。",
+    "exTranslation": "Я интересуюсь китайской культурой."
+  },
+  {
+    "char": "语法",
+    "pinyin": "yǔfǎ",
+    "translation": "Грамматика",
+    "example": "汉语语法不难。",
+    "exTranslation": "Китайская грамматика не сложная."
+  },
+  {
+    "char": "字典",
+    "pinyin": "zìdiǎn",
+    "translation": "Словарь",
+    "example": "我查一下字典。",
+    "exTranslation": "Я посмотрю в словаре."
+  },
+  {
+    "char": "作业",
+    "pinyin": "zuòyè",
+    "translation": "Домашнее задание",
+    "example": "你写完作业了吗？",
+    "exTranslation": "Ты дописал домашку?"
+  },
+  {
+    "char": "容易",
+    "pinyin": "róngyì",
+    "translation": "Легкий",
+    "example": "汉语不容易学。",
+    "exTranslation": "Китайский нелегко выучить."
+  },
+  {
+    "char": "因为...所以",
+    "pinyin": "yīnwèi... suǒyǐ",
+    "translation": "Так как... поэтому",
+    "example": "因为下雨，所以我不去了。",
+    "exTranslation": "Так как идет дождь, я не пойду."
+  },
+  {
+    "char": "如果...就",
+    "pinyin": "rúguǒ... jiù",
+    "translation": "Если... то",
+    "example": "如果你有时间，就来我家吧。",
+    "exTranslation": "Если у тебя будет время, приходи ко мне."
+  },
+  {
+    "char": "而且",
+    "pinyin": "érqiě",
+    "translation": "К тому же / Но и",
+    "example": "这件衣服很漂亮，而且很便宜。",
+    "exTranslation": "Эта одежда красивая, к тому же дешевая."
+  },
+  {
+    "char": "即使",
+    "pinyin": "jíshǐ",
+    "translation": "Даже если",
+    "example": "即使下雨，我也要去。",
+    "exTranslation": "Даже если будет дождь, я пойду."
+  },
+  {
+    "char": "所以",
+    "pinyin": "suǒyǐ",
+    "translation": "Поэтому",
+    "example": "今天很冷，所以多穿点儿。",
+    "exTranslation": "Сегодня холодно, поэтому оденься потеплее."
+  },
+  {
+    "char": "为了",
+    "pinyin": "wèile",
+    "translation": "Ради / Чтобы",
+    "example": "为了学好汉语，他去了中国。",
+    "exTranslation": "Ради того, чтобы выучить китайский, он поехал в Китай."
+  },
+  {
+    "char": "后来",
+    "pinyin": "hòulái",
+    "translation": "Потом / Впоследствии",
+    "example": "后来他去北京了。",
+    "exTranslation": "Потом он уехал в Пекин."
+  },
+  {
+    "char": "最近",
+    "pinyin": "zuìjìn",
+    "translation": "В последнее время",
+    "example": "我最近很忙。",
+    "exTranslation": "Я в последнее время очень занят."
+  },
+  {
+    "char": "偶尔",
+    "pinyin": "ǒu'ěr",
+    "translation": "Изредка",
+    "example": "我偶尔吃中餐。",
+    "exTranslation": "Я изредка ем китайскую еду."
+  },
+  {
+    "char": "只有",
+    "pinyin": "zhǐyǒu",
+    "translation": "Только",
+    "example": "教室里只有他一个人。",
+    "exTranslation": "В аудитории только он один."
+  },
+  {
+    "char": "正在",
+    "pinyin": "zhèngzài",
+    "translation": "В процессе (сейчас)",
+    "example": "我正在吃饭呢。",
+    "exTranslation": "Я как раз сейчас ем."
+  },
+  {
+    "char": "应该",
+    "pinyin": "yīnggāi",
+    "translation": "Должен (следует)",
+    "example": "你应该多休息。",
+    "exTranslation": "Тебе следует больше отдыхать."
+  },
+  {
+    "char": "解释",
+    "pinyin": "jiěshì",
+    "translation": "Объяснять",
+    "example": "请给我解释一下。",
+    "exTranslation": "Пожалуйста, объясните мне."
+  },
+  {
+    "char": "其他",
+    "pinyin": "qítā",
+    "translation": "Другие / Остальные",
+    "example": "其他人都走了。",
+    "exTranslation": "Другие люди уже ушли."
+  },
+  {
+    "char": "服务",
+    "pinyin": "fúwù",
+    "translation": "Сервис / Обслуживание",
+    "example": "这家饭店的服务很好。",
+    "exTranslation": "В этом ресторане хороший сервис."
+  },
+  {
+    "char": "干",
+    "pinyin": "gàn",
+    "translation": "Делать / Заниматься",
+    "example": "你在干什么？",
+    "exTranslation": "Что ты делаешь?"
+  },
+  {
+    "char": "更",
+    "pinyin": "gèng",
+    "translation": "Более / Еще более",
+    "example": "今天比昨天更冷。",
+    "exTranslation": "Сегодня еще холоднее, чем вчера."
+  },
+  {
+    "char": "关",
+    "pinyin": "guān",
+    "translation": "Закрывать / Выключать",
+    "example": "请关灯。",
+    "exTranslation": "Пожалуйста, выключите свет."
+  },
+  {
+    "char": "角",
+    "pinyin": "jiǎo",
+    "translation": "Угол / Цзяо (0.1 юаня)",
+    "example": "桌子角很尖。",
+    "exTranslation": "У стола острый угол."
+  },
+  {
+    "char": "经理",
+    "pinyin": "jīnglǐ",
+    "translation": "Менеджер / Директор",
+    "example": "经理在办公室。",
+    "exTranslation": "Директор в офисе."
+  },
+  {
+    "char": "久",
+    "pinyin": "jiǔ",
+    "translation": "Долгий (о времени)",
+    "example": "等了很久。",
+    "exTranslation": "Ждал очень долго."
+  },
+  {
+    "char": "旧",
+    "pinyin": "jiù",
+    "translation": "Старый (о вещах)",
+    "example": "这件衣服很旧了。",
+    "exTranslation": "Эта одежда уже очень старая."
+  },
+  {
+    "char": "句",
+    "pinyin": "jù",
+    "translation": "Предложение / Фраза",
+    "example": "请再说一句。",
+    "exTranslation": "Пожалуйста, повторите еще раз (фразу)."
+  },
+  {
+    "char": "客人",
+    "pinyin": "kèrén",
+    "translation": "Гость",
+    "example": "家里来了很多客人。",
+    "exTranslation": "Домой пришло много гостей."
+  },
+  {
+    "char": "空调",
+    "pinyin": "kōngtiáo",
+    "translation": "Кондиционер",
+    "example": "请把空调打开。",
+    "exTranslation": "Пожалуйста, включи кондиционер."
+  },
+  {
+    "char": "口",
+    "pinyin": "kǒu",
+    "translation": "Рот / Сч. слово для членов семьи",
+    "example": "我家有五口人。",
+    "exTranslation": "В моей семье пять человек."
+  },
+  {
+    "char": "哭",
+    "pinyin": "kū",
+    "translation": "Плакать",
+    "example": "别哭了。",
+    "exTranslation": "Не плачь."
+  },
+  {
+    "char": "筷子",
+    "pinyin": "kuàizi",
+    "translation": "Палочки для еды",
+    "example": "你会用筷子吗？",
+    "exTranslation": "Ты умеешь пользоваться палочками?"
+  },
+  {
+    "char": "蓝",
+    "pinyin": "lán",
+    "translation": "Синий",
+    "example": "他穿着蓝色的衬衫。",
+    "exTranslation": "На нем синяя рубашка."
+  },
+  {
+    "char": "脸",
+    "pinyin": "liǎn",
+    "translation": "Лицо",
+    "example": "他的脸很红。",
+    "exTranslation": "Его лицо очень красное."
+  },
+  {
+    "char": "辆",
+    "pinyin": "liàng",
+    "translation": "Сч. слово для транспорта",
+    "example": "我买了一辆新车。",
+    "exTranslation": "Я купил новую машину."
+  },
+  {
+    "char": "聊天",
+    "pinyin": "liáotiān",
+    "translation": "Болтать / Чат",
+    "example": "我们在网上聊天。",
+    "exTranslation": "Мы болтаем в интернете."
+  },
+  {
+    "char": "留学",
+    "pinyin": "liúxué",
+    "translation": "Учиться за границей",
+    "example": "他去美国留学了。",
+    "exTranslation": "Он уехал учиться в Америку."
+  },
+  {
+    "char": "楼",
+    "pinyin": "lóu",
+    "translation": "Здание / Этаж",
+    "example": "我住在大楼的五层。",
+    "exTranslation": "Я живу на пятом этаже здания."
+  },
+  {
+    "char": "绿",
+    "pinyin": "lǜ",
+    "translation": "Зеленый",
+    "example": "春天树叶绿了。",
+    "exTranslation": "Весной листья на деревьях позеленели."
+  },
+  {
+    "char": "马",
+    "pinyin": "mǎ",
+    "translation": "Лошадь",
+    "example": "他会骑马。",
+    "exTranslation": "Он умеет ездить на лошади."
+  },
+  {
+    "char": "帽子",
+    "pinyin": "màozi",
+    "translation": "Шапка / Головной убор",
+    "example": "你的帽子很漂亮。",
+    "exTranslation": "Твоя шапка очень красивая."
+  },
+  {
+    "char": "米",
+    "pinyin": "mǐ",
+    "translation": "Метр / Рис (крупа)",
+    "example": "这个房间有三米宽。",
+    "exTranslation": "Эта комната три метра в ширину."
+  },
+  {
+    "char": "奶奶",
+    "pinyin": "nǎinai",
+    "translation": "Бабушка (по папе)",
+    "example": "奶奶在那儿坐着。",
+    "exTranslation": "Бабушка сидит там."
+  },
+  {
+    "char": "南",
+    "pinyin": "nán",
+    "translation": "Юг",
+    "example": "南方天气比较暖和。",
+    "exTranslation": "На юге погода теплее."
+  },
+  {
+    "char": "年级",
+    "pinyin": "niánjí",
+    "translation": "Класс / Курс",
+    "example": "我儿子读三年级。",
+    "exTranslation": "Мой сын учится в третьем классе."
+  },
+  {
+    "char": "年轻",
+    "pinyin": "niánqīng",
+    "translation": "Молодой",
+    "example": "他看起来很年轻。",
+    "exTranslation": "Он выглядит очень молодым."
+  },
+  {
+    "char": "鸟",
+    "pinyin": "niǎo",
+    "translation": "Птица",
+    "example": "树上有一只鸟。",
+    "exTranslation": "На дереве сидит птица."
+  },
+  {
+    "char": "胖",
+    "pinyin": "pàng",
+    "translation": "Полный / Толстый",
+    "example": "他最近胖了一点儿。",
+    "exTranslation": "Он в последнее время немного поправился."
+  },
+  {
+    "char": "啤酒",
+    "pinyin": "píjiǔ",
+    "translation": "Пиво",
+    "example": "你想喝啤酒吗？",
+    "exTranslation": "Хочешь пива?"
+  },
+  {
+    "char": "葡萄",
+    "pinyin": "pútáo",
+    "translation": "Виноград",
+    "example": "这些葡萄很甜。",
+    "exTranslation": "Этот виноград очень сладкий."
+  },
+  {
+    "char": "骑",
+    "pinyin": "qí",
+    "translation": "Ездить верхом (велосипед, конь)",
+    "example": "我骑自行车去学校。",
+    "exTranslation": "Я еду в школу на велосипеде."
+  },
+  {
+    "char": "秋天",
+    "pinyin": "qiūtiān",
+    "translation": "Осень",
+    "example": "秋天天气很舒服。",
+    "exTranslation": "Осенью погода очень приятная."
+  },
+  {
+    "char": "黑板",
+    "pinyin": "hēibǎn",
+    "translation": "Классная доска",
+    "example": "请看黑板上的汉字。",
+    "exTranslation": "Пожалуйста, посмотрите на иероглифы на доске."
+  },
+  {
+    "char": "刷牙",
+    "pinyin": "shuā yá",
+    "translation": "Чистить зубы",
+    "example": "早晚都要刷牙。",
+    "exTranslation": "Зубы нужно чистить утром и вечером."
+  },
+  {
+    "char": "生气",
+    "pinyin": "shēng qì",
+    "translation": "Сердиться / Злиться",
+    "example": "别生气了，好吗？",
+    "exTranslation": "Не сердись больше, ладно?"
+  },
+  {
+    "char": "饱",
+    "pinyin": "bǎo",
+    "translation": "Сытый",
+    "example": "我吃饱了。",
+    "exTranslation": "Я наелся (сыт)."
+  },
+  {
+    "char": "饿",
+    "pinyin": "è",
+    "translation": "Голодный",
+    "example": "你饿了吗？",
+    "exTranslation": "Ты проголодался?"
+  },
+  {
+    "char": "一直",
+    "pinyin": "yìzhí",
+    "translation": "Постоянно / Прямо",
+    "example": "我一直都在家。",
+    "exTranslation": "Я всё время был дома."
+  },
+  {
+    "char": "肯定",
+    "pinyin": "kěndìng",
+    "translation": "Обязательно / Несомненно",
+    "example": "他肯定会来的。",
+    "exTranslation": "Он обязательно придет."
+  },
+  {
+    "char": "大概",
+    "pinyin": "dàgài",
+    "translation": "Вероятно / Примерно",
+    "example": "我大概要去三天。",
+    "exTranslation": "Я уеду примерно на три дня."
+  },
+  {
+    "char": "当然",
+    "pinyin": "dāngrán",
+    "translation": "Конечно",
+    "example": "当然可以！",
+    "exTranslation": "Конечно можно!"
+  },
+  {
+    "char": "千万",
+    "pinyin": "qiānwàn",
+    "translation": "Во что бы то ни стало",
+    "example": "你千万别忘了这件事。",
+    "exTranslation": "Смотри не забудь об этом ни в коем случае."
+  },
+  {
+    "char": "只要",
+    "pinyin": "zhǐyào",
+    "translation": "Стоит только / При условии",
+    "example": "只要努力，就会成功。",
+    "exTranslation": "Стоит только постараться, и ты добьешься успеха."
+  },
+  {
+    "char": "因为",
+    "pinyin": "yīnwèi",
+    "translation": "Потому что",
+    "example": "因为下雨，我没去。",
+    "exTranslation": "Из-за дождя я не пошел."
+  },
+  {
+    "char": "不过",
+    "pinyin": "búguò",
+    "translation": "Однако / Всего лишь",
+    "example": "我很想去，不过没时间。",
+    "exTranslation": "Я бы очень хотел пойти, однако нет времени."
+  },
+  {
+    "char": "目的",
+    "pinyin": "mùdì",
+    "translation": "Цель",
+    "example": "我来中国的目的是学习汉语。",
+    "exTranslation": "Моя цель приезда в Китай — изучение китайского языка."
+  },
+  {
+    "char": "总结",
+    "pinyin": "zǒngjié",
+    "translation": "Итог / Резюмировать",
+    "example": "让我们总结一下。",
+    "exTranslation": "Давайте подведем итоги."
+  },
+  {
+    "char": "建议",
+    "pinyin": "jiànyì",
+    "translation": "Предлагать / Совет",
+    "example": "我建议你早点出发。",
+    "exTranslation": "Я советую тебе выехать пораньше."
+  },
+  {
+    "char": "反对",
+    "pinyin": "fǎnduì",
+    "translation": "Возражать / Быть против",
+    "example": "我不反对你的计划。",
+    "exTranslation": "Я не против твоего плана."
+  },
+  {
+    "char": "坚持",
+    "pinyin": "jiānchí",
+    "translation": "Настаивать / Придерживаться",
+    "example": "只要坚持，就能成功。",
+    "exTranslation": "Если проявить настойчивость, можно добиться успеха."
+  },
+  {
+    "char": "举行",
+    "pinyin": "jǔxíng",
+    "translation": "Проводить / Устраивать",
+    "example": "婚礼在下个月举行。",
+    "exTranslation": "Свадьба состоится (пройдет) в следующем месяце."
+  },
+  {
+    "char": "组织",
+    "pinyin": "zǔzhī",
+    "translation": "Организовывать / Организация",
+    "example": "学校组织了一次旅游。",
+    "exTranslation": "Школа организовала туристическую поездку."
+  },
+  {
+    "char": "艺术",
+    "pinyin": "yìshù",
+    "translation": "Искусство",
+    "example": "这是一件艺术品。",
+    "exTranslation": "Это произведение искусства."
+  },
+  {
+    "char": "科学",
+    "pinyin": "kēxué",
+    "translation": "Наука",
+    "example": "科学技术发展很快。",
+    "exTranslation": "Наука и технологии развиваются очень быстро."
+  },
+  {
+    "char": "未来",
+    "pinyin": "wèilái",
+    "translation": "Будущее",
+    "example": "祝你在未来一切顺利。",
+    "exTranslation": "Желаю тебе всего наилучшего в будущем."
+  },
+  {
+    "char": "意思",
+    "pinyin": "yìsi",
+    "translation": "Смысл / Значение",
+    "example": "这是什么意思？",
+    "exTranslation": "Что это значит?"
+  },
+  {
+    "char": "忘记",
+    "pinyin": "wàngjì",
+    "translation": "Забывать",
+    "example": "别忘了带伞。",
+    "exTranslation": "Не забудь взять зонт."
+  },
+  {
+    "char": "出现",
+    "pinyin": "chūxiàn",
+    "translation": "Появляться",
+    "example": "屏幕上出现了字。",
+    "exTranslation": "На экране появились слова."
+  },
+  {
+    "char": "欢迎",
+    "pinyin": "huānyíng",
+    "translation": "Приветствовать",
+    "example": "欢迎来到中国！",
+    "exTranslation": "Добро пожаловать в Китай!"
+  },
+  {
+    "char": "既然",
+    "pinyin": "jìrán",
+    "translation": "Раз уж",
+    "example": "既然来了，就坐吧。",
+    "exTranslation": "Раз уж пришел, присаживайся."
+  },
+  {
+    "char": "精彩",
+    "pinyin": "jīngcǎi",
+    "translation": "Замечательный",
+    "example": "这个电影很精彩。",
+    "exTranslation": "Этот фильм замечательный."
+  },
+  {
+    "char": "精神",
+    "pinyin": "jīngshén",
+    "translation": "Дух / Бодрость",
+    "example": "今天他的精神很好。",
+    "exTranslation": "Сегодня он очень бодр."
+  },
+  {
+    "char": "经验",
+    "pinyin": "jīngyàn",
+    "translation": "Опыт",
+    "example": "他有很多工作经验。",
+    "exTranslation": "У него большой опыт работы."
+  },
+  {
+    "char": "景色",
+    "pinyin": "jǐngsè",
+    "translation": "Пейзаж",
+    "example": "这里的景色很美。",
+    "exTranslation": "Здесь очень красивый пейзаж."
+  },
+  {
+    "char": "竟然",
+    "pinyin": "jìngrán",
+    "translation": "К удивлению / Вдруг",
+    "example": "他竟然忘了我的生日。",
+    "exTranslation": "Он, к моему удивлению, забыл про мой день рождения."
+  },
+  {
+    "char": "紧张",
+    "pinyin": "jǐnzhāng",
+    "translation": "Нервный / Напряженный",
+    "example": "考试前我很紧张。",
+    "exTranslation": "Перед экзаменом я очень нервничаю."
+  },
+  {
+    "char": "进行",
+    "pinyin": "jìnxíng",
+    "translation": "Проводить / Вести",
+    "example": "会议正在进行中。",
+    "exTranslation": "Собрание сейчас проводится."
+  },
+  {
+    "char": "看来",
+    "pinyin": "kànlái",
+    "translation": "По-видимому",
+    "example": "看来他今天不来了。",
+    "exTranslation": "По-видимому, он сегодня не придет."
+  },
+  {
+    "char": "空气",
+    "pinyin": "kōngqì",
+    "translation": "Воздух",
+    "example": "这里的空气很清新。",
+    "exTranslation": "Здесь очень свежий воздух."
+  },
+  {
+    "char": "恐怕",
+    "pinyin": "kǒngpà",
+    "translation": "Боюсь, что",
+    "example": "恐怕他还没准备好。",
+    "exTranslation": "Боюсь, он еще не готов."
+  },
+  {
+    "char": "礼貌",
+    "pinyin": "lǐmào",
+    "translation": "Вежливость",
+    "example": "这个孩子很有礼貌。",
+    "exTranslation": "Этот ребенок очень вежливый."
+  },
+  {
+    "char": "流利",
+    "pinyin": "liúlì",
+    "translation": "Беглый (о речи)",
+    "example": "他的汉语说得很流利。",
+    "exTranslation": "Он говорит по-китайски бегло."
+  },
+  {
+    "char": "内容",
+    "pinyin": "nèiróng",
+    "translation": "Содержание",
+    "example": "这篇文章的内容很好。",
+    "exTranslation": "Содержание этой статьи очень хорошее."
+  },
+  {
+    "char": "耐心",
+    "pinyin": "nàixīn",
+    "translation": "Терпение",
+    "example": "教育孩子要有耐心。",
+    "exTranslation": "В воспитании детей нужно терпение."
+  }
+]

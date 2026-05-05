@@ -1,0 +1,113 @@
+.page {
+  background: linear-gradient(135deg, #f0f7ff, #e0eaff);
+  font-family: sans-serif;
+  color: #333;
+  margin: 0;
+  padding: 40px 20px;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  padding: 50px 40px;
+  overflow: hidden;
+}
+
+.title {
+  text-align: center;
+  font-size: 2.8em;
+  color: #4a90e2;
+  margin-bottom: 40px;
+  border-bottom: 3px solid #a0c4ff;
+  padding-bottom: 20px;
+}
+
+.sketch-section {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.sketch-image {
+  width: 800px;              
+  height: auto;
+  max-height: 800px;         
+  object-fit: contain;
+  border: 2px solid #b0d4ff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(74, 144, 226, 0.15);
+  background-color: #fff;
+  transition: transform 0.4s ease, box-shadow 0.4s ease, border-color 0.4s ease;
+}
+
+.sketch-image:hover {
+  transform: scale(1.01);    
+  box-shadow: 0 10px 24px rgba(74, 144, 226, 0.25);
+  border-color: #a0c4ff;
+}
+
+.description {
+  font-size: 1.3em;
+  line-height: 1.7;
+  color: #555;
+  margin-bottom: 60px;
+  text-align: center;
+  background: rgba(160, 196, 255, 0.08);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.stories-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+}
+
+.section {
+  background: linear-gradient(145deg, #fdfdfd, #f8f8f8);
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.section-title {
+  font-size: 1.8em;
+  color: #4a90e2;
+  margin-bottom: 20px;
+  border-bottom: 2px dashed #a0c4ff;
+  padding-bottom: 12px;
+  letter-spacing: 0.5px;
+}
+
+.story {
+  background-color: #ffffff;
+  padding: 18px;
+  margin-bottom: 18px;
+  border-radius: 8px;
+  border-left: 5px solid #b0d4ff;
+  font-size: 1.05em;
+  line-height: 1.6;
+  color: #444;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.story:hover {
+  border-left-color: #a0c4ff;
+  box-shadow: 0 4px 12px rgba(160, 196, 255, 0.2);
+  transform: translateX(4px);
+}
+
+.story:last-child {
+  margin-bottom: 0;
+}
